@@ -54,7 +54,7 @@ li a:hover {
 }
 
 
-@media only screen and (max-width: 800px) {
+@media only screen and (orientation: portrait) {
     .centre {
         margin-top: 50px;
         width: 100%;
