@@ -10,9 +10,21 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
-    {% include navigation.html %}
     <div class="centre">
-      {{ content }}
+      <div id="header">
+        <div id="name">
+          <h2>Thomas Kiley</h2>
+        </div>
+        <div id="contact-details">
+          <ul>
+            <li>E: <a href="mailto:hi@tkiley.co.uk">hi@tkiley.co.uk</a></li>
+            <li>T: 07948 284729</li>
+          </ul>
+        </div>
+      </div>
+      <div id="content">
+        {{ content }}
+      </div>
     </div>
   </body>
 </html>
