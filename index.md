@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Software Engineering for Busy Experts
 ---
 # Software Engineering Best Practises for Busy Experts
 
@@ -8,7 +8,7 @@ I offer a series of seminars designed to help scientists, engineers and other do
 
 **If your company has domain experts who are writing code, [get in touch](mailto:hi@tkiley.co.uk) today to increase both the reliability of the software you produce, as well as the speed at which you can develop it.**
 
-You can read more about what the course covers and how it is structured [here](course.html). 
+You can read more about what the course covers and how it is structured [here](course.html).
 
 Get in touch today to discuss getting these seminars given to you. Email me [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) or ring me on 07948 284729.
 
@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec laoreet magna jus
  2. [Automated Tests](#automated-tests)
  3. [“Good” Code](#good-code)
  4. [Code Review](#code-review)
- 5. [Continuous Integration (CI)](#continuous-integration-ci) 
+ 5. [Continuous Integration (CI)](#continuous-integration-ci)
 
 
 ### Souce Control
