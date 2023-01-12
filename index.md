@@ -8,29 +8,35 @@ title: Software Engineering for Busy Experts
 
 **If your company has domain experts who are writing code, [get in touch](mailto:hi@tkiley.co.uk) today to increase both the reliability of the software you produce, as well as the speed at which you can develop it.**
 
-I have been writing code for ten years in a range of industries including science, technology, games and healthcare. In this time I have learnt _the importance of good software practises_ in writing correct code _quickly_, and _in collaboration with others_.
-
 Writing code is now an _essential part of all science and technology_ research and development - yet many of the scientists and domain experts have _never received training on software engineering_ best practices, and are instead expected to figure it out. The result of this is, at best, slow software development, and at worst incorrect research results.
 
-**I can deliver a 5 part course, consisting of 45min seminars (with lots of time for questions) at your office or through a video call (or a hybrid approach) on these software best practices.**
+I can deliver a course consisting of _5 seminars_, with lots of time for questions and an _on-going relationship_ after the course is finished to help you apply the techniques.
 
-Through the techniques covered in these seminars, not only will the code produced be more reliable, but development will actually be easier and faster for the experts.
+The course can be done _in person_ at your office, on a _video call_ or a _hybrid_ approach.
 
-The seminars themselves can be tailored to the specific needs of your company. I am also available following the seminars to have group or one-on-one meetings to discuss the specific software engineering challenges you face, and work with you to come up with a solution that works for everyone.
+Through the techniques covered in these seminars, your code will be _more reliable_ and development will be _faster_.
 
 > "Having Thomas come on site and give these seminars massively improved our productivity"
 >
 > *A Company*
 
-Get in touch today to discuss receiving this course. Email me [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) or ring me on 07948 284729.
+Get in touch today to discuss receiving this course. Email me [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) to arrange a call to discuss booking in this course.
+
+## The Course Leader
+
+I have been writing code for ten years in a range of industries including science, technology, games and healthcare. In this time I have learnt _the importance of good software practises_ in writing correct code quickly, and in collaboration with others.
+
+In my time as team lead I was able to see how good software practises _sped up delivery_ and increased quality.
+
+I am really motivated to help scientists and other domain experts learn from my experience of software engineering to allow them to fulfil their technologies potential. Please [get in touch](mailto:hi@tkiley.co.uk) to unlock your expertise.
 
 ## The Course
 
-The course is designed to cover the key areas of modern software engineering best practises. Each seminar will help developers to adopt industry standard approaches to developing software. These cover both technical topics such as writing automated tests, as well as procedural topics such as effective code review process.
+The course is designed to cover the key areas of modern software engineering best practises. Each seminar will help developers to adopt _industry standard approaches_ to developing software. These cover both technical topics such as writing automated tests, as well as procedural topics such as effective code review process.
 
-You may already be using some of these techniques, so the course is entirely customisable to exclude the parts you already do, or provide more details on what is mission critical to you.
+In addition to the off-the-shelf course, I am happy to tailor the course to _match your needs, exeperience and technologies_.
 
-**Get in touch today to craft a bespoke course for your business.**
+**[Get in touch](mailto:hi@tkiley.co.uk) today to craft a bespoke course for your business.**
 
 The full course consists of 5 seminars:
 
@@ -40,17 +46,21 @@ The full course consists of 5 seminars:
  4. [Code Review](#code-review)
  5. [Continuous Integration (CI)](#continuous-integration-ci)
 
- Each of the seminars features practical examples using Python, [Git](https://git-scm.com/), Gitlab. During the seminars I answer questions, including giving plenty of time for the specific challenges you are having using these best practises. I also like to foster an on-going relationship after you have completed the course to help you put these tools and techniques into practice.
+Each of the seminars features _practical examples_ and time for questions to ensure the techniques can be applied in your domain.
 
-### Source Control
+I also like to foster an on-going relationship after you have completed the course to _help you put these tools and techniques into practice_.
+
+[Get in touch](mailto:hi@tkiley.co.uk) today to learn the skills needed for _effective software development_.
+
+### Seminar A: Source Control
 
 Source control is a tool that stores your source code, and tracks changes made to it across time. It facilitates collaboration between multiple developers working on the same code, as well as ensuring reproducible results.
 
-If you are not already using source control, this seminar will teach you how to get set up, and how to use it effectively.
+**Source control is indispensible for working with other developers on code.**
 
-**Source control is vital for working with other developers on code. It allows for fast iteration, whilst maintaining stability of the software. Learning to use source control will revolutionise your software development process.**
+If you already use source control then this seminar can be tailored to whatever tools you are already using. I will cover best practises for using them successfully.
 
-If you already use source control then this seminar can be tailored to whatever tools you are already using. I will cover best practises for using them effectively. Get in touch today to discuss how to make this seminar be useful for your company.
+[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use source control effectively.
 
 #### Topics & Technologies
 
@@ -65,13 +75,15 @@ The off-the-shelf seminar will cover:
 
 This seminar can be tweaked to use different source control software, hosting options to match your existing workflows.  Please get in touch with me and we can customise this talk to meet your needs and match your skills.
 
-### Automated Tests
+### Seminar B: Automated Tests
 
-Automated tests are one of the most powerful tools in a developers toolkit. By writing little bits of code that test specific portions of your piece of software, you free yourself up from having to constantly re-test your changes by hand. It also improves the overall reliability of the software when you have multiple people working on the same project.
+Automated tests are one of the most powerful tools in a developers toolkit. My motto forged from years of practical experience is _code that isn't tested does not work_ as expected.
 
-This seminar will explain all the ways in which automated tests are indispensable. It will cover how to write tests, even when the code is complicated, with plenty of Python examples.
+Learning to write automated tests will free the domain experts from having to constantly re-test changes by hand. It will also improve the overall reliability of the software, particuarly when you have multiple people working on the same project.
 
-**In my experience I have seen that code that isn't tested does not work as the writer intends. Learning to write tests will help your software development process be more correct in the long term, and faster in the short term.**
+**Learn to write tests to eliminate new bugs and speed up development in the process.**
+
+This seminar will explain all the ways in which automated tests are essential. It will cover how to write tests, even when the code is complicated, with plenty of examples.
 
 #### Technologies
 
@@ -81,9 +93,9 @@ The off-the-shelf seminar will use:
  * [Python unittest](https://docs.python.org/3/library/unittest.html) - the built-in unit testing framework in Python
  * [Python unittest.mock](https://docs.python.org/3/library/unittest.mock.html) - the built-in mocking framework in Python
 
-This seminar can be tweaked to use the language of your choice, or cover testing examples that resemble the kind of code you write to make this easier to apply. Get in touch today to start writing automated tests today.
+This seminar can be tweaked to use the language of your choice, or cover testing examples that resemble the kind of code you write to make this easier to apply. [Get in touch](mailto:hi@tkiley.co.uk) today to start writing automated tests today.
 
-### "Good" Code
+### Seminar C: "Good" Code
 
 Writing code is relatively easy, but writing "good" code is elusive. My experience has taught me that good code is code that is:
 
@@ -91,21 +103,21 @@ Writing code is relatively easy, but writing "good" code is elusive. My experien
 2. Testable
 3. Maintainable
 
-This seminar will justify why writing good code is important, before providing a large toolkit of guidelines and techniques that can be applied to your code to make it more readable, testable and maintainable.
+This seminar will justify why writing good code is important, before providing a _large toolkit of guidelines and techniques_ that can be applied to your code to make it more readable, testable and maintainable.
 
 **Code is a communication tool, writing good code will minimize misunderstanding between past and future developers.**
 
-This seminar can be adjusted by reviewing some of your existing code to see the kind of problems that your experiencing and focusing on the techniques that will apply to your code base. Get in touch today to start learning how to write better code.
+This seminar can be adjusted by reviewing some of your existing code to see the kind of problems that your experiencing and focusing on the techniques that will apply to your code base. [Get in touch](mailto:hi@tkiley.co.uk) today to start learning how to write better code.
 
-### Code Review
+### Seminar D: Code Review
 
-A code review process involves having one developer review another developers changes to the source code before it is submitted. It is a key step to ensuring that code understood by everyone, as well as sharing coding best practises organically.
+A code review process involves having one developer review another developers changes to the source code before it is submitted. It is a key step to _ensuring that code understood by everyone_, as well as sharing coding best practices organically.
 
-This seminar will cover all the advantages of a code review process. It will explain how to practically implement one, and then how to make the most of it.
+This seminar will cover all the advantages of a code review process. It will explain how to implement one, and then how to make the most of it.
 
 **Having a code review process will simultaneously upskill your developers and improve the quality of your code.**
 
-Get in touch today to learn about how code review can help your software development practises. This seminar can be customised to include reviewing someones code as part of a demonstration.
+[Get in touch](mailto:hi@tkiley.co.uk) today to learn about how code review can help your software development practices. This seminar can be customised to include reviewing someones code as part of a demonstration.
 
 #### Technologies
 
@@ -113,10 +125,9 @@ Get in touch today to learn about how code review can help your software develop
 
 As with all the other seminars, get in touch if you use a different platform for conducting code reviews and I can tailor the course to use that website to make it easier to apply this to your existing workflows.
 
+### Seminar E: Continuous Integration (CI)
 
-### Continuous Integration (CI)
-
-Using Continuous Integration (CI) technologies is a very cheap and easy way to increase the reliability of your software. In conjunction with source control and automated tests, every change to the code is checked to actually do what it is supposed to do. This frees developers up from testing changes by hand and to focus on more important work.
+Using Continuous Integration (CI) technologies is a cheap and easy way to increase the reliability of your software. Every change to the code is checked automatically, freeing experts up from testing changes by hand and to focus on their expertise. It helps developers work together, without breaking each others work.
 
 **Continuous Integration allows developers to make changes confidently and efficiently.**
 
@@ -130,12 +141,14 @@ This seminar can be adjusted to use examples from your preferred technologies. A
 
 ## Services
 
-Get in touch today to discuss getting this course at your work.
+[Get in touch](mailto:hi@tkiley.co.uk) today to discuss getting this course at your business.
 
 I offer an off-the-shelf course, with the option to tailor any and all of the seminars to better meet your precise needs and technologies.
 
 The seminars can be delivered at on-site, via a zoom call or a hybrid approach - whichever works best for you.  I am based in Oxford, UK.
 
-I also offer a flexible hourly or daily rate for after the course to discuss any on-going challenges.
+I also offer a flexible hourly or daily rate for after the course to discuss any on-going challenges you are facing.
 
-I am deeply passionate about helping domain experts become better software engineers. Please get in touch and we can discuss a format that works for you.
+I am deeply passionate about helping domain experts become better software engineers. Please [email me](mailto:hi@tkiley.co.uk) to arrange a chat and we can discuss a format that works for you.
+
+
