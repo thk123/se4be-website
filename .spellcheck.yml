@@ -1,0 +1,9 @@
+matrix:
+  - name: spelling
+    spellchecker: hunspell
+    sources:
+    - index.md
+    - "./_includes/opening_box.html"
+    dictionary:
+      wordlists:
+      - ignored_words.txt
