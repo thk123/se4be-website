@@ -7,3 +7,7 @@ matrix:
     dictionary:
       wordlists:
       - ignored_words.txt
+    pipeline:
+    - pyspelling.filters.markdown:
+    - pyspelling.filters.html:
+        comments: false

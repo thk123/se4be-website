@@ -1,13 +1,10 @@
-JPG
-img
-src
 tkiley
+html
 CircleCI
 Github
 Gitlab
-html
-https
-mailto
+Gitlab's
 tkiley
 upskill
 upskills
+uk
