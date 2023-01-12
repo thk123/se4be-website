@@ -8,6 +8,14 @@ h1, h2, h3 {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+/*All anchor targets need the height of the sticky #header
+This number will need to be adjusted if the height of #header is
+changed.
+*/
+h1, h2, h3 {
+    scroll-margin-top: 6rem;
+}
+
 a
 {
     color: #fb8c00;
