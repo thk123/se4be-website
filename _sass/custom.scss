@@ -152,10 +152,19 @@ h1 {
     margin-bottom: 20vh;
 }
 
-#content ol
+#content ol,ul
 {
     padding-left:4em;
     line-height: 1.25em;
+}
+
+h4
+{
+    background-color: black;
+    color: white;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    padding-left: 1cm;
 }
 
 .opening-box-container
