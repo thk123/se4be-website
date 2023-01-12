@@ -8,13 +8,13 @@ title: Software Engineering for Busy Experts
 
 **If your company has domain experts who are writing code, [get in touch](mailto:hi@tkiley.co.uk) today to increase both the reliability of the software you produce, as well as the speed at which you can develop it.**
 
-Writing code is now an _essential part of all science and technology_ research and development - yet many of the scientists and domain experts have _never received training on software engineering_ best practices, and are instead expected to figure it out. The result of this is, at best, slow software development, and at worst incorrect research results.
+Writing code is now an _essential part of all science and technology_ research and development - yet many of the scientists and domain experts have _never received training on software engineering_ best practices, and are instead expected to figure it out. The result of this is slow software development and unreliable software.
 
-I can deliver a course consisting of _5 seminars_, with lots of time for questions and an _on-going relationship_ after the course is finished to help you apply the techniques.
+I can deliver a course that will teach your developers the _industry standard techniques_ to write more reliable code faster.
+
+The course consists of _5 seminars_, with lots of time for questions. After the course, I would provide an _on-going relationship_ to help you apply the techniques.
 
 The course can be done _in person_ at your office, on a _video call_ or a _hybrid_ approach.
-
-Through the techniques covered in these seminars, your code will be _more reliable_ and development will be _faster_.
 
 > "Having Thomas come on site and give these seminars massively improved our productivity"
 >
@@ -22,7 +22,7 @@ Through the techniques covered in these seminars, your code will be _more reliab
 
 Get in touch today to discuss receiving this course. Email me [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) to arrange a call to discuss booking in this course.
 
-## The Course Leader
+## About Thomas
 
 I have been writing code for ten years in a range of industries including science, technology, games and healthcare. In this time I have learnt _the importance of good software practises_ in writing correct code quickly, and in collaboration with others.
 
