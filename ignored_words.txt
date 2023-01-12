@@ -8,3 +8,5 @@ tkiley
 upskill
 upskills
 uk
+customisable
+minimize

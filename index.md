@@ -4,7 +4,7 @@ title: Software Engineering for Busy Experts
 ---
 # Software Engineering Best Practices for Busy Experts
 
-{% include opening_box.html content="I offer a series of seminars designed to help scientists, engineers and other domain experts to learn the most important software engineering best practices to help them write correct code more efficently." %}
+{% include opening_box.html content="I offer a series of seminars designed to help scientists, engineers and other domain experts to learn the most important software engineering best practices to help them write correct code more efficiently." %}
 
 **If your company has domain experts who are writing code, [get in touch](mailto:hi@tkiley.co.uk) today to increase both the reliability of the software you produce, as well as the speed at which you can develop it.**
 
@@ -30,7 +30,7 @@ Get in touch today to discuss getting these seminars given to you. Email me [hi@
 
 The course is designed to cover the key areas of modern software engineering best practises. Each module will help developers to adopt industry standard approaches to developing software. These cover both technical topics such as writing automated tests, as well as procedural topics such as en effective code review process.
 
-You may already be using some of these techniques, so the course is entirely customsisable to exclude the parts you already do, or provide more details on what is mission critical to you.
+You may already be using some of these techniques, so the course is entirely customisable to exclude the parts you already do, or provide more details on what is mission critical to you.
 
 **Get in touch today to craft a bespoke course for your business.**
 
@@ -44,7 +44,7 @@ The full course consists of 5 modules:
 
  Each of the talks features practical examples using Python, [Git](https://git-scm.com/), Gitlab. After each talk I will answer questions - giving plenty of time for the specific challenges you are having using these best practises. I also like to foster an on-going relationship after the talks to help you put these tools and techniques into practise.
 
-### Souce Control
+### Source Control
 
 Source control is a tool that stores your source code, and tracks changes to that code across time. Popular source control software includes [Git](https://git-scm.com/) and [Subversion](https://subversion.apache.org/).
 
@@ -52,15 +52,15 @@ If you are not already using source control, this module will teach you how to u
 
 **Source control is vital for working with other developers on code. It allows for fast iteration, whilst maintaining stability of the software. Learning to use source control will revolutionise your software development process.**
 
-If you already use source control, well done! This module can be tailored to whatever tools you use and to cover best practises for using them effectivey. Get in touch today to discuss how to make this module be useful for your company.
+If you already use source control, well done! This module can be tailored to whatever tools you use and to cover best practises for using them effectively. Get in touch today to discuss how to make this module be useful for your company.
 
 ### Automated Tests
 
 Automated tests are one of the most powerful tools in a developers toolkit. By writing little bits of code that test specific portions of your piece of software, you free yourself up from having to constantly re-test your changes by hand. It also improves the overall reliability of the software when you have multiple people working on the same project.
 
-This module will explain all the ways in which automated tests are indispensible. It will cover how to write tests, even when the code is complicated, with plenty of Python examples.
+This module will explain all the ways in which automated tests are indispensable. It will cover how to write tests, even when the code is complicated, with plenty of Python examples.
 
-**In my experience I have seen that code that isn't tested does not work as the writer intends. Learning to write tests will help your software developement process be more correct in the long term, and faster in the short term.**
+**In my experience I have seen that code that isn't tested does not work as the writer intends. Learning to write tests will help your software development process be more correct in the long term, and faster in the short term.**
 
 This module can be tweaked to use the language of your choice, or cover testing examples that resemble the kind of code you write to make this easier to apply. Get in touch today to start writing automated tests today.
 
@@ -82,9 +82,9 @@ This module can be adjusted by reviewing some of your existing code to see the k
 
 A code review process involves having one developer review another developers changes to the source code before it is submitted. It is a key step to ensuring that code is readable and tested. It also serves to reduce the "bus factor" of the project. It also upskills developers on code writing techniques for free.
 
-This module will cover all the advantages of a code review process. It will explain how to practically implement one, using Gitlabs code review tools. Finally it will cover how to review code efficently, maximising the benifit for the time spent.
+This module will cover all the advantages of a code review process. It will explain how to practically implement one, using Gitlab's code review tools. Finally it will cover how to review code efficiently, maximising the benefit for the time spent.
 
-**Having a code review process will simulatenously upskill your developers and improve the quality of your code.**
+**Having a code review process will simultaneously upskill your developers and improve the quality of your code.**
 
 Get in touch today to learn about how code review can help your software development practises. This module can be customised to include reviewing someones code as part of a demonstration.
 
@@ -92,9 +92,9 @@ Get in touch today to learn about how code review can help your software develop
 
 Using Continuous Integration technologies like Gitlab Actions or CircleCI is a very cheap and easy way to increase the reliability of your software. In conjunction with source control and automated tests, every change to the code is checked to actually do what it is supposed to do. This frees developers up from testing changes by hand and to focus on their important work.
 
-This module will cover setting up a basic continuious integration system using Gitlab Actions. It will also cover what a good CI should be doing.
+This module will cover setting up a basic continuous integration system using Gitlab Actions. It will also cover what a good CI should be doing.
 
-**Continuous Integration allows developers to make changes confidently and efficently.**
+**Continuous Integration allows developers to make changes confidently and efficiently.**
 
 This module can be adjusted to use examples from your preferred technologies. After the course I'd be happy to help with troubleshooting any problems that arise.
 
