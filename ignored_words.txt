@@ -11,3 +11,4 @@ uk
 customisable
 minimize
 unittest
+Kdiff
