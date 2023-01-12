@@ -8,7 +8,7 @@ title: Software Engineering for Busy Experts
 
 **If your company has domain experts who are writing code, [get in touch](mailto:hi@tkiley.co.uk) today to increase both the reliability of the software you produce, as well as the speed at which you can develop it.**
 
-You can read more about what the course covers and how it is structured [here](course.html).
+You can read more about what the course covers and how it is structured [here](#the-course).
 
 Get in touch today to discuss getting these seminars given to you. Email me [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) or ring me on 07948 284729.
 
