@@ -8,6 +8,12 @@ h1, h2, h3 {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+em {
+    color:#fb8c00;
+    font-style: normal;
+    font-weight: bold;
+}
+
 /*All anchor targets need the height of the sticky #header
 This number will need to be adjusted if the height of #header is
 changed.
