@@ -33,7 +33,7 @@ jobs:
         uses: rojopolis/spellcheck-github-actions@0.29.0
         with:
           source_files: "*.md"
-          task_name: GitHub Spellcheck Action
+          task_name: Markdown
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
