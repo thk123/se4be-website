@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Home
+title: Software Engineering for Busy Experts
 ---
 # Software Engineering Best Practises for Busy Experts
 
-I offer a series of seminars designed to help scientists, engineers and other domain experts to learn the most important software engineering best practises to help them write correct code more efficently.
+{% include opening_box.html content="I offer a series of seminars designed to help scientists, engineers and other domain experts to learn the most important software engineering best practises to help them write correct code more efficently." %}
 
 **If your company has domain experts who are writing code, [get in touch](mailto:hi@tkiley.co.uk) today to increase both the reliability of the software you produce, as well as the speed at which you can develop it.**
 
