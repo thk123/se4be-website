@@ -36,7 +36,7 @@ I have been writing code for ten years in a range of industries including scienc
 
 In my time as team lead I was able to see how good software practices can _speed up delivery_ and increased quality.
 
-I am really motivated to help scientists and other domain experts learn from my experience of software engineering to allow them to fulfil their technologies potential. Please [get in touch](mailto:hi@tkiley.co.uk) to unlock your expertise.
+I am really motivated to use my experience of software engineering experts fulfil their technologies potential. Please [get in touch](mailto:hi@tkiley.co.uk) to unlock your expertise.
 
 ## Course Syllabus
 
