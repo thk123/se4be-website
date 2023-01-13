@@ -60,7 +60,7 @@ I also like to foster an on-going relationship after you have completed the cour
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to learn the skills needed for _effective software development_.
 
-### Source Control
+### Seminar A: Source Control
 
 Source control is a tool that stores your source code, and tracks changes made to it across time. It facilitates collaboration between multiple developers working on the same code, as well as ensuring reproducible results.
 
@@ -88,7 +88,7 @@ Software & Technologies:
 
 This seminar can be tweaked to use different source control software, hosting options to match your existing workflows.  Please get in touch with me and we can customise this talk to meet your needs and match your skills.
 
-### Automated Tests
+### Seminar B: Automated Tests
 
 Automated tests automatically check code does what the developer intends. Learning to write automated tests will free the domain experts from having to constantly re-test changes by hand.
 
@@ -116,7 +116,7 @@ Software & Technologies:
 
 This seminar can be tweaked to use the language of your choice, or cover testing examples that resemble the kind of code you write to make this easier to apply. [Get in touch](mailto:hi@tkiley.co.uk) today to start writing automated tests today.
 
-### "Good" Code
+### Seminar C: "Good" Code
 
 Writing code is relatively easy, but writing "good" code is
 elusive. By following industry approaches over time the quality of the code will improve.
@@ -146,7 +146,7 @@ The seminar can cover:
 
 * [Python](https://www.python.org/){:target="_blank"} - a popular programming language
 
-### Code Review
+### Seminar D: Code Review
 
 A code review process involves having one developer review another developers changes to the source code before it is submitted. Doing this effectively can spot defects and share knowledge.
 
@@ -172,7 +172,7 @@ Software & Technologies:
 
 As with all the other seminars, get in touch if you use a different platform for conducting code reviews and I can tailor the course to use that website to make it easier to apply this to your existing workflows.
 
-### Continuous Integration
+### Seminar E: Continuous Integration
 
 Continuous Integration (CI) is an industry standard approach to automatically check changes to projects automatically. This catches problems before they affect other developers and customers.
 
