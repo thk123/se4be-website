@@ -6,7 +6,7 @@ title: Software Engineering for Busy Experts
 
 {% include opening_box.html content="I offer a course designed to help scientists, engineers and other domain experts to learn the most important software engineering best practices to help them write correct code more efficiently." %}
 
-**If your company has domain experts who are writing code, [get in touch](mailto:hi@tkiley.co.uk) today to increase both the reliability of the software you produce, as well as the speed at which you can develop it.**
+**[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use software industries best practices at your work.**
 
 Writing code is now an _essential part of all science and technology_ research and development - yet many of the scientists and domain experts have _never received training on software engineering_ best practices, and are instead expected to figure it out. The result of this is slow software development and unreliable software.
 
