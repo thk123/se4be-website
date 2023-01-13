@@ -34,7 +34,7 @@ The course consists of 5 seminars:
 
 I have been writing code for ten years in a range of industries including science, technology, games and healthcare. In this time I have learnt _the importance of good software practices_ in writing correct code quickly, and in collaboration with others.
 
-In my time as team lead I was able to see how good software practices _sped up delivery_ and increased quality.
+In my time as team lead I was able to see how good software practices can _speed up delivery_ and increased quality.
 
 I am really motivated to help scientists and other domain experts learn from my experience of software engineering to allow them to fulfil their technologies potential. Please [get in touch](mailto:hi@tkiley.co.uk) to unlock your expertise.
 
