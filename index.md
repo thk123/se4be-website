@@ -191,10 +191,9 @@ This seminar can be adjusted to use examples from your preferred technologies. A
 
 ## Services
 
-[Get in touch](mailto:hi@tkiley.co.uk) today to discuss getting this course at your business.
-
 I offer an off-the-shelf course, with the option to tailor any and all of the seminars to better meet your precise needs and technologies.
 
+**[Get in touch](mailto:hi@tkiley.co.uk) today to discuss getting this course at your business.**
 The seminars can be delivered at on-site, via a zoom call or a hybrid approach - whichever works best for you.  I am based in Oxford, UK.
 
 I also offer a flexible hourly or daily rate for after the course to discuss any on-going challenges you are facing.
