@@ -70,16 +70,21 @@ If you already use source control then this seminar can be tailored to whatever 
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use source control effectively.
 
-#### Topics & Technologies
+#### Seminar Syllabus
 
-The off-the-shelf seminar will cover:
+The seminar can cover:
 
 * Why you should use source control
-* How to setup a new [Git](https://git-scm.com/) repository (Git is the most popular source control software in industry).
-* How to host your new repository on [Gitlab](https://about.gitlab.com/) - a widely used cloud tool for storing source code and more
-* Basic operations of git, using the command line and [Git-Cola](https://git-cola.github.io/) - a user friendly tool for interacting with Git
-* Resolving merge conflicts using [Kdiff3](https://kdiff3.sourceforge.net/) when multiple people have edited the same file
+* How to setup a new Git repository
+* Basic operations of Git, using the command line and a GUI
+* Resolving merge conflicts
 * How to use the "Github workflow" to enhance collaboration
+
+Software & Technologies:
+ * [Git](https://git-scm.com/){:target="_blank"} - the industry standard source control solution
+ * [Gitlab](https://about.gitlab.com/){:target="_blank"} - a widely used cloud tool for storing source code and more
+ * [Git-Cola](https://git-cola.github.io/){:target="_blank"} - a user friendly tool for interacting with Git
+ * [Kdiff3](https://kdiff3.sourceforge.net/){:target="_blank"} - a user friendly tool for resolving merge conflicts
 
 This seminar can be tweaked to use different source control software, hosting options to match your existing workflows.  Please get in touch with me and we can customise this talk to meet your needs and match your skills.
 
@@ -93,13 +98,21 @@ Learning to write automated tests will free the domain experts from having to co
 
 This seminar will explain all the ways in which automated tests are essential. It will cover how to write tests, even when the code is complicated, with plenty of examples.
 
-#### Technologies
+#### Seminar Syllabus
 
-The off-the-shelf seminar will use:
+The seminar can cover:
 
- * [Python](https://www.python.org/) - a popular programming language
- * [Python unittest](https://docs.python.org/3/library/unittest.html) - the built-in unit testing framework in Python
- * [Python unittest.mock](https://docs.python.org/3/library/unittest.mock.html) - the built-in mocking framework in Python
+ * What tests are.
+ * Why tests are valuable.
+ * How to write tests (including when it is tricky).
+ * When to write tests.
+ * Running tests
+
+Software & Technologies:
+
+ * [Python](https://www.python.org/){:target="_blank"} - a popular programming language
+ * [Python unittest](https://docs.python.org/3/library/unittest.html){:target="_blank"} - the built-in unit testing framework in Python
+ * [Python unittest.mock](https://docs.python.org/3/library/unittest.mock.html){:target="_blank"} - the built-in mocking framework in Python
 
 This seminar can be tweaked to use the language of your choice, or cover testing examples that resemble the kind of code you write to make this easier to apply. [Get in touch](mailto:hi@tkiley.co.uk) today to start writing automated tests today.
 
@@ -117,8 +130,19 @@ This seminar will justify why writing good code is important, before providing a
 
 This seminar can be adjusted by reviewing some of your existing code to see the kind of problems that your experiencing and focusing on the techniques that will apply to your code base. [Get in touch](mailto:hi@tkiley.co.uk) today to start learning how to write better code.
 
+#### Seminar Syllabus
 
 A code review process involves having one developer review another developers changes to the source code before it is submitted. It is a key step to _ensuring that code understood by everyone_, as well as sharing coding best practices organically.
+The seminar can cover:
+
+ * A working definition of good code.
+ * How to make code readable.
+ * How to make code testable.
+ * How to make code maintainable.
+
+ Software & Technologies:
+
+* [Python](https://www.python.org/){:target="_blank"} - a popular programming language
 
 This seminar will cover all the advantages of a code review process. It will explain how to implement one, and then how to make the most of it.
 ### Code Review
@@ -127,9 +151,17 @@ This seminar will cover all the advantages of a code review process. It will exp
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to learn about how code review can help your software development practices. This seminar can be customised to include reviewing someones code as part of a demonstration.
 
-#### Technologies
+#### Seminar Syllabus
 
-* [Gitlab](https://about.gitlab.com/) - a widely used cloud tool for conducting code reviews
+The seminar can cover:
+
+ * What a code review process is.
+ * What to look for in a code review.
+ * How to make your code easy to review.
+
+Software & Technologies:
+
+ * [Gitlab](https://about.gitlab.com/){:target="_blank"} - a widely used cloud tool for conducting code reviews
 
 As with all the other seminars, get in touch if you use a different platform for conducting code reviews and I can tailor the course to use that website to make it easier to apply this to your existing workflows.
 
@@ -141,9 +173,19 @@ Using Continuous Integration (CI) technologies is a cheap and easy way to increa
 
 This seminar will cover setting up a basic continuous integration system, and go into details of what a good CI system should do.
 
-#### Technologies
+#### Seminar Syllabus
 
- * [Gitlab CI/CD](https://docs.gitlab.com/ee/ci/) - a popular cloud platform for running a CI system on
+The seminar can cover:
+
+ * What CI is and does.
+ * How to set up a basic CI.
+ * How to use a CI system.
+ * Maximizing the value of a CI system.
+
+Software & Technologies:
+
+ * [Gitlab CI/CD](https://docs.gitlab.com/ee/ci/){:target="_blank"} - a popular cloud platform for running a CI system on
+ * [Python unittest](https://docs.python.org/3/library/unittest.html){:target="_blank"} - the built-in unit testing framework in Python
 
 This seminar can be adjusted to use examples from your preferred technologies. After the course I'd be happy to help with troubleshooting any problems that arise.
 
