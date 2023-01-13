@@ -60,7 +60,7 @@ I also like to foster an on-going relationship after you have completed the cour
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to learn the skills needed for _effective software development_.
 
-### Seminar A: Source Control
+### Source Control
 
 Source control is a tool that stores your source code, and tracks changes made to it across time. It facilitates collaboration between multiple developers working on the same code, as well as ensuring reproducible results.
 
@@ -83,7 +83,7 @@ The off-the-shelf seminar will cover:
 
 This seminar can be tweaked to use different source control software, hosting options to match your existing workflows.  Please get in touch with me and we can customise this talk to meet your needs and match your skills.
 
-### Seminar B: Automated Tests
+### Automated Tests
 
 Automated tests are one of the most powerful tools in a developers toolkit. My motto forged from years of practical experience is _code that isn't tested does not work_ as expected.
 
@@ -103,7 +103,7 @@ The off-the-shelf seminar will use:
 
 This seminar can be tweaked to use the language of your choice, or cover testing examples that resemble the kind of code you write to make this easier to apply. [Get in touch](mailto:hi@tkiley.co.uk) today to start writing automated tests today.
 
-### Seminar C: "Good" Code
+### "Good" Code
 
 Writing code is relatively easy, but writing "good" code is elusive. My experience has taught me that good code is code that is:
 
@@ -117,11 +117,11 @@ This seminar will justify why writing good code is important, before providing a
 
 This seminar can be adjusted by reviewing some of your existing code to see the kind of problems that your experiencing and focusing on the techniques that will apply to your code base. [Get in touch](mailto:hi@tkiley.co.uk) today to start learning how to write better code.
 
-### Seminar D: Code Review
 
 A code review process involves having one developer review another developers changes to the source code before it is submitted. It is a key step to _ensuring that code understood by everyone_, as well as sharing coding best practices organically.
 
 This seminar will cover all the advantages of a code review process. It will explain how to implement one, and then how to make the most of it.
+### Code Review
 
 **Having a code review process will simultaneously upskill your developers and improve the quality of your code.**
 
@@ -133,7 +133,7 @@ This seminar will cover all the advantages of a code review process. It will exp
 
 As with all the other seminars, get in touch if you use a different platform for conducting code reviews and I can tailor the course to use that website to make it easier to apply this to your existing workflows.
 
-### Seminar E: Continuous Integration (CI)
+### Continuous Integration
 
 Using Continuous Integration (CI) technologies is a cheap and easy way to increase the reliability of your software. Every change to the code is checked automatically, freeing experts up from testing changes by hand and to focus on their expertise. It helps developers work together, without breaking each others work.
 
