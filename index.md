@@ -10,17 +10,25 @@ title: Software Engineering for Busy Experts
 
 Writing code is now an _essential part of all science and technology_ research and development - yet many of the scientists and domain experts have _never received training on software engineering_ best practices, and are instead expected to figure it out. The result of this is slow software development and unreliable software.
 
-I can deliver a course that will teach your developers the _industry standard techniques_ to write more reliable code faster.
-
-The course consists of _5 seminars_, with lots of time for questions. After the course, I would provide an _on-going relationship_ to help you apply the techniques.
-
-The course can be done _in person_ at your office, on a _video call_ or a _hybrid_ approach.
-
 > "Having Thomas come on site and give these seminars massively improved our productivity"
 >
 > *A Company*
 
-Get in touch today to discuss receiving this course. Email me [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) to arrange a call to discuss booking in this course.
+I can deliver a course that will teach your developers the _industry standard techniques_ to write more reliable code faster.
+
+Email me at [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) to discuss how this course can help your company develop software effectively.
+
+## The Course
+
+The course is designed to cover the key areas of modern software engineering best practices. Each seminar will help developers to adopt _industry standard approaches_ to developing software.
+
+The course consists of 5 seminars:
+
+ 1. [Source Control](#source-control)
+ 2. [Automated Tests](#automated-tests)
+ 3. [“Good” Code](#good-code)
+ 4. [Code Review](#code-review)
+ 5. [Continuous Integration](#continuous-integration)
 
 ## About Thomas
 
@@ -30,23 +38,23 @@ In my time as team lead I was able to see how good software practices _sped up d
 
 I am really motivated to help scientists and other domain experts learn from my experience of software engineering to allow them to fulfil their technologies potential. Please [get in touch](mailto:hi@tkiley.co.uk) to unlock your expertise.
 
-## The Course
+## Course Syllabus
 
-The course is designed to cover the key areas of modern software engineering best practices. Each seminar will help developers to adopt _industry standard approaches_ to developing software. These cover both technical topics such as writing automated tests, as well as procedural topics such as effective code review process.
-
-In addition to the off-the-shelf course, I am happy to tailor the course to _match your needs, experience and technologies_.
-
-**[Get in touch](mailto:hi@tkiley.co.uk) today to craft a bespoke course for your business.**
-
-The full course consists of 5 seminars:
+The course consists of 5 seminars:
 
  1. [Source Control](#source-control)
  2. [Automated Tests](#automated-tests)
  3. [“Good” Code](#good-code)
  4. [Code Review](#code-review)
- 5. [Continuous Integration (CI)](#continuous-integration-ci)
+ 5. [Continuous Integration](#continuous-integration)
 
-Each of the seminars features _practical examples_ and time for questions to ensure the techniques can be applied in your domain.
+Each of the seminars features _practical examples_ to see how these techniques can be applied. These seminars take the form of a 45 minute presentation and time for questions. This interactivity ensures the techniques can be applied in your domain.
+
+The seminars can be delivered in person at your office, via a video call or a hybrid approach.
+
+In addition to the off-the-shelf course, I am happy to tailor the course to _match your needs, experience and technologies_.
+
+**[Get in touch](mailto:hi@tkiley.co.uk) today to craft a bespoke course for your business.**
 
 I also like to foster an on-going relationship after you have completed the course to _help you put these tools and techniques into practice_.
 
