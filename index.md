@@ -24,17 +24,17 @@ Get in touch today to discuss receiving this course. Email me [hi@tkiley.co.uk](
 
 ## About Thomas
 
-I have been writing code for ten years in a range of industries including science, technology, games and healthcare. In this time I have learnt _the importance of good software practises_ in writing correct code quickly, and in collaboration with others.
+I have been writing code for ten years in a range of industries including science, technology, games and healthcare. In this time I have learnt _the importance of good software practices_ in writing correct code quickly, and in collaboration with others.
 
-In my time as team lead I was able to see how good software practises _sped up delivery_ and increased quality.
+In my time as team lead I was able to see how good software practices _sped up delivery_ and increased quality.
 
 I am really motivated to help scientists and other domain experts learn from my experience of software engineering to allow them to fulfil their technologies potential. Please [get in touch](mailto:hi@tkiley.co.uk) to unlock your expertise.
 
 ## The Course
 
-The course is designed to cover the key areas of modern software engineering best practises. Each seminar will help developers to adopt _industry standard approaches_ to developing software. These cover both technical topics such as writing automated tests, as well as procedural topics such as effective code review process.
+The course is designed to cover the key areas of modern software engineering best practices. Each seminar will help developers to adopt _industry standard approaches_ to developing software. These cover both technical topics such as writing automated tests, as well as procedural topics such as effective code review process.
 
-In addition to the off-the-shelf course, I am happy to tailor the course to _match your needs, exeperience and technologies_.
+In addition to the off-the-shelf course, I am happy to tailor the course to _match your needs, experience and technologies_.
 
 **[Get in touch](mailto:hi@tkiley.co.uk) today to craft a bespoke course for your business.**
 
@@ -56,9 +56,9 @@ I also like to foster an on-going relationship after you have completed the cour
 
 Source control is a tool that stores your source code, and tracks changes made to it across time. It facilitates collaboration between multiple developers working on the same code, as well as ensuring reproducible results.
 
-**Source control is indispensible for working with other developers on code.**
+**Source control is indispensable for working with other developers on code.**
 
-If you already use source control then this seminar can be tailored to whatever tools you are already using. I will cover best practises for using them successfully.
+If you already use source control then this seminar can be tailored to whatever tools you are already using. I will cover best practices for using them successfully.
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use source control effectively.
 
@@ -79,7 +79,7 @@ This seminar can be tweaked to use different source control software, hosting op
 
 Automated tests are one of the most powerful tools in a developers toolkit. My motto forged from years of practical experience is _code that isn't tested does not work_ as expected.
 
-Learning to write automated tests will free the domain experts from having to constantly re-test changes by hand. It will also improve the overall reliability of the software, particuarly when you have multiple people working on the same project.
+Learning to write automated tests will free the domain experts from having to constantly re-test changes by hand. It will also improve the overall reliability of the software, particularly when you have multiple people working on the same project.
 
 **Learn to write tests to eliminate new bugs and speed up development in the process.**
 
