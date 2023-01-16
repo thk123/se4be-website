@@ -32,10 +32,7 @@ jobs:
       - name: Spellcheck
         uses: igsekor/pyspelling-any@v0.0.2
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+        run: bundle exec jekyll build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
