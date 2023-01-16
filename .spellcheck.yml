@@ -2,12 +2,10 @@ matrix:
   - name: spelling
     spellchecker: hunspell
     sources:
-    - index.md
-    - "./_includes/opening_box.html"
+    - "./_site/index.html"
     dictionary:
       wordlists:
       - ignored_words.txt
     pipeline:
-    - pyspelling.filters.markdown:
     - pyspelling.filters.html:
         comments: false
