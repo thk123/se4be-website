@@ -8,6 +8,12 @@ h1, h2, h3 {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+em {
+    color:#fb8c00;
+    font-style: normal;
+    font-weight: bold;
+}
+
 /*All anchor targets need the height of the sticky #header
 This number will need to be adjusted if the height of #header is
 changed.
@@ -152,10 +158,23 @@ h1 {
     margin-bottom: 20vh;
 }
 
-#content ol
+#content ol,ul
 {
     padding-left:4em;
     line-height: 1.25em;
+}
+
+#content ol {
+    list-style-type: lower-alpha;
+}
+
+h4
+{
+    background-color: black;
+    color: white;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    padding-left: 1cm;
 }
 
 .opening-box-container
