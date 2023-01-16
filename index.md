@@ -108,11 +108,11 @@ This seminar can be tweaked to use the language of your choice, or cover testing
 
 ### Seminar C: "Good" Code
 
-Writing "good" code is necessary to ensure software can be efficently developed over time. This seminar will give developers a large toolkit of techniques that will make your code more readable, testable and maintainable.
+Writing "good" code is necessary to ensure software can be efficiently developed over time. This seminar will give developers a large toolkit of techniques that will make your code more readable, testable and maintainable.
 
 **Good code allows future developers to understand and therefore improve software.**
 
-By applying some simple techniques you can ensure the code you write is _readable, testable and maintaible_. Code that has these properties will be more correct and easier for developers to work on.
+By applying some simple techniques you can ensure the code you write is _readable, testable and maintainable_. Code that has these properties will be more correct and easier for developers to work on.
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to start learning how to write better code.
 
@@ -133,7 +133,7 @@ I can review your existing code to focus on the techniques that will help you fi
 
 ### Seminar D: Code Review
 
-A code review process improves code quality and shares knowledge amongst developers. This seminar will teach developers a system for efficently reviewing code, focusing on what is important to improve.
+A code review process improves code quality and shares knowledge amongst developers. This seminar will teach developers a system for efficiently reviewing code, focusing on what is important to improve.
 
 **A code review process will upskill your developers and improve the quality of your code.**
 

@@ -11,6 +11,8 @@ uk
 customised
 customisable
 minimize
+maximize
+maximizing
 unittest
 Kdiff
 learnt
