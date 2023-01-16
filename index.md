@@ -48,7 +48,7 @@ I want to foster an on-going relationship after you have completed the course to
 
 ### Seminar A: Source Control
 
-Source control is a tool that facilitates collaboration between multiple developers working on the same code, as well as ensuring reproducible results.
+Source control is essential tool for any project with multiple developers. This seminar will teach you how to use it to improve collaboration.
 
 **Source control is indispensable for working with other developers on code.**
 
@@ -76,7 +76,7 @@ This seminar can be tweaked to use different source control software and hosting
 
 ### Seminar B: Automated Tests
 
-Learning to write automated tests will free the domain experts from having to constantly test changes by hand. Instead tests automatically check the code does what the developer intends.
+Automated tests are a way to automatically improve the stability and accuracy of your software. This seminar will explain how to create tests, freeing developers up from manual testing to focus on their expertise.
 
 **Writing automated tests will eliminate new bugs and speed up collaboration.**
 
@@ -104,7 +104,7 @@ This seminar can be tweaked to use the language of your choice, or cover testing
 
 ### Seminar C: "Good" Code
 
-Writing "good" code is elusive, even for experienced developers. By following industry approaches you can start writing better code now, and over time your code will become more readable, testable and maintainable.
+Writing "good" code is necessary to ensure software can be efficently developed over time. This seminar will give developers a large toolkit of techniques that will make your code more readable, testable and maintainable.
 
 **Code is a communication tool, writing good code will minimize misunderstanding between past and future developers.**
 
@@ -135,7 +135,7 @@ The seminar can cover:
 
 ### Seminar D: Code Review
 
-A code review process spots defects and share knowledge amongst developers. It involves having one developer review another developers changes to the source code before it is submitted.
+A code review process improves code quality and share knowledge amongst developers. This seminar will teach developers a system for efficently reviewing code, focusing on what is important to improve.
 
 **Having a code review process will simultaneously upskill your developers and improve the quality of your code.**
 
@@ -161,7 +161,7 @@ As with all the other seminars, get in touch if you want to use a different plat
 
 ### Seminar E: Continuous Integration
 
-Continuous Integration (CI) is an industry standard approach to catche problems before they affect other developers and customers. It achievs this by automatically checking all changes to projects.
+Continuous Integration (CI) is an industry standard approach to catches problems before they affect other developers and customers. This seminar will show developers how to set a CI up immediately, and how to make it as useful as possible.
 
 **Continuous Integration allows developers to make changes confidently and efficiently.**
 
