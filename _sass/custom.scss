@@ -19,7 +19,7 @@ This number will need to be adjusted if the height of #header is
 changed.
 */
 h1, h2, h3 {
-    scroll-margin-top: 6rem;
+    scroll-margin-top: calc(max(3rem, 30vh - 2rem));
 }
 
 a
@@ -48,8 +48,7 @@ h2
 #header {
     position: sticky;
     top:0px;
-    padding-top: 2em;
-    padding-bottom: 2em;
+    padding-top: calc(15vh - 2rem);
     padding-left: 5%;
     padding-right: 5%;
     background-color: #00695c;
@@ -57,6 +56,8 @@ h2
     flex-direction:row;
     color: white;
     flex-wrap: wrap-reverse;
+    height: 15vh;
+    min-height: 3rem;
 }
 
 #header ul
