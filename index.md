@@ -141,7 +141,7 @@ Code review _ensures that the code is understood by everyone_. This is necessary
 
 This seminar will cover all the advantages of a code review process. It will explain how to implement one, and then how to make the most of it.
 
-[Get in touch](mailto:hi@tkiley.co.uk) today to learn about how code review can help your software development practices. This seminar can be customised to include reviewing someones code as part of a demonstration.
+[Get in touch](mailto:hi@tkiley.co.uk) today to learn about how review code effectively.
 
 #### Seminar Syllabus
 
@@ -166,6 +166,8 @@ Continuous Integration (CI) is an industry standard approach to catches problems
 Using CI is a cheap and easy way to _increase the reliability of your software_. Every change to the code is checked automatically, freeing experts up from testing changes by hand and to focus on their expertise. It helps developers work together, without breaking each others work.
 
 This seminar will cover setting up a basic continuous integration system, and go into details of what a good CI system should do.
+
+[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to get your CI system up and running.
 
 #### Seminar Syllabus
 
