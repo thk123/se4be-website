@@ -58,7 +58,7 @@ I will cover setting up source control for your project, before going onto best 
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use source control effectively.
 
-#### Seminar Syllabus
+{% details Seminar Syllabus %}
 
 The seminar can cover:
 
@@ -76,6 +76,8 @@ Software & Technologies Used:
 
 This seminar can be tweaked to use different source control software and hosting options to match your existing workflows. Please [get in touch with me](mailto:hi@tkiley.co.uk) and we can customise this seminar to match your skills and desired technologies.
 
+{% enddetails %}
+
 ### Seminar B: Automated Tests
 
 Automated tests are a way to automatically improve the stability and accuracy of your software. This seminar will explain how to create tests, freeing developers up from manual testing to focus on their expertise.
@@ -88,7 +90,7 @@ This seminar will explain all the ways in which automated tests are useful. It w
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to start writing automated tests today.
 
-#### Seminar Syllabus
+{% details Seminar Syllabus %}
 
 The seminar can cover:
 
@@ -106,6 +108,8 @@ Software & Technologies Used:
 
 This seminar can be tweaked to use the language of your choice, or cover testing examples that resemble the kind of code you write to make this easier to apply. Please [get in touch with me](mailto:hi@tkiley.co.uk) and we can customise this seminar to match your skills and desired technologies.
 
+{% enddetails %}
+
 ### Seminar C: "Good" Code
 
 Writing "good" code is necessary to ensure software can be efficiently developed over time. This seminar will give developers a large toolkit of techniques that will make your code more readable, testable and maintainable.
@@ -116,7 +120,7 @@ By applying some simple techniques you can ensure the code you write is _readabl
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to start learning how to write better code.
 
-#### Seminar Syllabus
+{% details Seminar Syllabus %}
 
 The seminar can cover:
 
@@ -131,6 +135,8 @@ The seminar can cover:
 
 I can review your existing code to focus on the techniques that will help you fix the kind of problems that you're experiencing in your code base. Please [get in touch with me](mailto:hi@tkiley.co.uk) and we can customise this seminar to match your skills and desired technologies.
 
+{% enddetails %}
+
 ### Seminar D: Code Review
 
 A code review process improves code quality and shares knowledge amongst developers. This seminar will teach developers a system for efficiently reviewing code, focusing on what is important to improve.
@@ -143,7 +149,7 @@ This seminar will cover all the advantages of a code review process. It will exp
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to learn about how review code effectively.
 
-#### Seminar Syllabus
+{% details Seminar Syllabus %}
 
 The seminar can cover:
 
@@ -157,6 +163,8 @@ Software & Technologies Used:
 
 This seminar can be tweaked to  Please [get in touch with me](mailto:hi@tkiley.co.uk) and we can customise this seminar to use different platforms for conducting the review on so that it is easier to apply to any existing workflows.
 
+{% enddetails %}
+
 ### Seminar E: Continuous Integration
 
 Continuous Integration (CI) is an industry standard approach to catches problems before they affect other developers and customers. This seminar will show developers how to set a CI up immediately, and how to make it as useful as possible.
@@ -169,7 +177,7 @@ This seminar will cover setting up a basic continuous integration system, and go
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to learn how to get your CI system up and running.
 
-#### Seminar Syllabus
+{% details Seminar Syllabus %}
 
 The seminar can cover:
 
@@ -184,6 +192,8 @@ Software & Technologies Used:
  * [Python unittest](https://docs.python.org/3/library/unittest.html){:target="_blank"} - the built-in unit testing framework in Python.
 
 This seminar can be tweaked to use examples from your preferred technologies. Please [get in touch with me](mailto:hi@tkiley.co.uk) and we can customise this seminar to match your skills and desired technologies.
+
+{% enddetails %}
 
 ## Services
 

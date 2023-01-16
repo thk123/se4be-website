@@ -168,15 +168,6 @@ h1 {
     list-style-type: lower-alpha;
 }
 
-h4
-{
-    background-color: black;
-    color: white;
-    padding-top: 0.1em;
-    padding-bottom: 0.1em;
-    padding-left: 1cm;
-}
-
 .opening-box-container
 {
     display: flex;
@@ -227,4 +218,10 @@ summary {
     padding-top: 0.1em;
     padding-bottom: 0.1em;
     padding-left: 1cm;
+}
+
+/* Fix for services not having a margin below the syllabus box */
+
+#services {
+    margin-top: 1cm;
 }
