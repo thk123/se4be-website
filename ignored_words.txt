@@ -1,13 +1,11 @@
 tkiley
-html
+uk
 CircleCI
 Github
 Gitlab
 Gitlab's
-tkiley
 upskill
 upskills
-uk
 customised
 customisable
 minimize
@@ -19,3 +17,4 @@ learnt
 customise
 fulfil
 amongst
+Kiley
