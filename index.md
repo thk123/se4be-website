@@ -64,8 +64,8 @@ The seminar can cover:
 
 * Why you should use source control.
 * How to setup source control with your project.
-* How to perform fundamental source control operations.
-* Resolving conflicts between multiple developers changes.
+* How to perform basic source control operations.
+* Resolving conflicting changes from multiple developers.
 * How to use the "Github workflow" to enhance collaboration.
 
 Software & Technologies Used:
@@ -74,7 +74,7 @@ Software & Technologies Used:
  * [Git-Cola](https://git-cola.github.io/){:target="_blank"} - a user friendly tool for interacting with Git.
  * [Kdiff3](https://kdiff3.sourceforge.net/){:target="_blank"} - a user friendly tool for resolving merge conflicts.
 
-This seminar can be tweaked to use different source control software and hosting options to match your existing workflows. Please get in touch with me and we can customise this talk to meet your needs and match your skills.
+This seminar can be tweaked to use different source control software and hosting options to match your existing workflows. Please [get in touch with me](mailto:hi@tkiley.co.uk) and we can customise this seminar to match your skills and desired technologies.
 
 ### Seminar B: Automated Tests
 
@@ -86,7 +86,7 @@ Automated tests will speed up development, as domain experts won't have to const
 
 This seminar will explain all the ways in which automated tests are useful. It will cover how to write tests, even when the code is complicated, with plenty of examples.
 
-[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to write automated tests.
+[Get in touch](mailto:hi@tkiley.co.uk) today to start writing automated tests today.
 
 #### Seminar Syllabus
 
@@ -104,7 +104,7 @@ Software & Technologies Used:
  * [Python unittest](https://docs.python.org/3/library/unittest.html){:target="_blank"} - the built-in unit testing framework in Python.
  * [Python unittest.mock](https://docs.python.org/3/library/unittest.mock.html){:target="_blank"} - the built-in mocking framework in Python.
 
-This seminar can be tweaked to use the language of your choice, or cover testing examples that resemble the kind of code you write to make this easier to apply. [Get in touch](mailto:hi@tkiley.co.uk) today to start writing automated tests today.
+This seminar can be tweaked to use the language of your choice, or cover testing examples that resemble the kind of code you write to make this easier to apply. Please [get in touch with me](mailto:hi@tkiley.co.uk) and we can customise this seminar to match your skills and desired technologies.
 
 ### Seminar C: "Good" Code
 
@@ -113,8 +113,6 @@ Writing "good" code is necessary to ensure software can be efficently developed 
 **Good code allows future developers to understand and therefore improve software.**
 
 By applying some simple techniques you can ensure the code you write is _readable, testable and maintaible_. Code that has these properties will be more correct and easier for developers to work on.
-
-I can review your existing code to focus on the techniques that will help you fix the kind of problems that you're experiencing in your code base.
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to start learning how to write better code.
 
@@ -130,6 +128,8 @@ The seminar can cover:
  Software & Technologies Used:
 
 * [Python](https://www.python.org/){:target="_blank"} - a popular programming language.
+
+I can review your existing code to focus on the techniques that will help you fix the kind of problems that you're experiencing in your code base. Please [get in touch with me](mailto:hi@tkiley.co.uk) and we can customise this seminar to match your skills and desired technologies.
 
 ### Seminar D: Code Review
 
@@ -155,7 +155,7 @@ Software & Technologies Used:
 
  * [Gitlab](https://about.gitlab.com/){:target="_blank"} - a widely used cloud tool for conducting code reviews.
 
-As with all the other seminars, get in touch if you want to use a different platform for conducting code reviews and I can tailor the course to match that to make it easier to apply this to your existing workflows.
+This seminar can be tweaked to  Please [get in touch with me](mailto:hi@tkiley.co.uk) and we can customise this seminar to use different platforms for conducting the review on so that it is easier to apply to any existing workflows.
 
 ### Seminar E: Continuous Integration
 
@@ -183,7 +183,7 @@ Software & Technologies Used:
  * [Gitlab CI/CD](https://docs.gitlab.com/ee/ci/){:target="_blank"} - a popular cloud platform for running a CI system on.
  * [Python unittest](https://docs.python.org/3/library/unittest.html){:target="_blank"} - the built-in unit testing framework in Python.
 
-This seminar can be adjusted to use examples from your preferred technologies. After the course I'd be happy to help with troubleshooting any problems that arise.
+This seminar can be tweaked to use examples from your preferred technologies. Please [get in touch with me](mailto:hi@tkiley.co.uk) and we can customise this seminar to match your skills and desired technologies.
 
 ## Services
 
