@@ -110,7 +110,7 @@ This seminar can be tweaked to use the language of your choice, or cover testing
 
 Writing "good" code is necessary to ensure software can be efficently developed over time. This seminar will give developers a large toolkit of techniques that will make your code more readable, testable and maintainable.
 
-**Code is a communication tool, writing good code will minimize misunderstanding between past and future developers.**
+**Good code allows future developers to understand and therefore improve software.**
 
 By applying some simple techniques you can ensure the code you write is _readable, testable and maintaible_. Code that has these properties will be more correct and easier for developers to work on.
 
@@ -135,7 +135,7 @@ The seminar can cover:
 
 A code review process improves code quality and shares knowledge amongst developers. This seminar will teach developers a system for efficently reviewing code, focusing on what is important to improve.
 
-**Having a code review process will simultaneously upskill your developers and improve the quality of your code.**
+**A code review process will upskill your developers and improve the quality of your code.**
 
 Code review _ensures that the code is understood by everyone_. This is necessary to ensure projects can be developed over a longer time frame as teams change. It also facilitates _organic sharing of coding best practices_ - ensuring new developers learn quickly.
 
