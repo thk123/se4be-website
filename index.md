@@ -52,6 +52,8 @@ Source control is essential tool for any project with multiple developers. This 
 
 **Source control is indispensable for working with other developers on code.**
 
+Source control allows developers to iterate with confidence, share works-in-progress with others and see what changes introduced problems. No software project should be undertaken without it.
+
 I will cover setting up source control for your project, before going onto best practices for using them successfully.
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use source control effectively.
@@ -80,9 +82,11 @@ Automated tests are a way to automatically improve the stability and accuracy of
 
 **Writing automated tests will eliminate new bugs and speed up collaboration.**
 
-Automated tests are one of the most powerful tools in a developers toolkit. My motto forged from years of practical experience is _code that isn't tested does not work as expected_.
+Automated tests will speed up development, as domain experts won't have to constantly test their changes by hand. My motto forged from years of practical experience is _code that isn't tested, does not work_.
 
-This seminar will explain all the ways in which automated tests are essential. It will cover how to write tests, even when the code is complicated, with plenty of examples.
+This seminar will explain all the ways in which automated tests are useful. It will cover how to write tests, even when the code is complicated, with plenty of examples.
+
+[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to write automated tests.
 
 #### Seminar Syllabus
 
@@ -108,13 +112,7 @@ Writing "good" code is necessary to ensure software can be efficently developed 
 
 **Code is a communication tool, writing good code will minimize misunderstanding between past and future developers.**
 
-My experience has taught me that good code is code that is:
-
-1. Readable
-2. Testable
-3. Maintainable
-
-This seminar will justify why writing good code is important, before providing a _large toolkit of guidelines and techniques_ that can be applied to your code to make it more readable, testable and maintainable.
+By applying some simple techniques you can ensure the code you write is _readable, testable and maintaible_. Code that has these properties will be more correct and easier for developers to work on.
 
 I can review your existing code to focus on the techniques that will help you fix the kind of problems that you're experiencing in your code base.
 
@@ -135,11 +133,11 @@ The seminar can cover:
 
 ### Seminar D: Code Review
 
-A code review process improves code quality and share knowledge amongst developers. This seminar will teach developers a system for efficently reviewing code, focusing on what is important to improve.
+A code review process improves code quality and shares knowledge amongst developers. This seminar will teach developers a system for efficently reviewing code, focusing on what is important to improve.
 
 **Having a code review process will simultaneously upskill your developers and improve the quality of your code.**
 
-Code review _ensures that the code is understood by everyone_, as well as sharing coding best practices organically.
+Code review _ensures that the code is understood by everyone_. This is necessary to ensure projects can be developed over a longer time frame as teams change. It also facilitates _organic sharing of coding best practices_ - ensuring new developers learn quickly.
 
 This seminar will cover all the advantages of a code review process. It will explain how to implement one, and then how to make the most of it.
 
@@ -165,7 +163,7 @@ Continuous Integration (CI) is an industry standard approach to catches problems
 
 **Continuous Integration allows developers to make changes confidently and efficiently.**
 
-Using CI is a cheap and easy way to increase the reliability of your software. Every change to the code is checked automatically, freeing experts up from testing changes by hand and to focus on their expertise. It helps developers work together, without breaking each others work.
+Using CI is a cheap and easy way to _increase the reliability of your software_. Every change to the code is checked automatically, freeing experts up from testing changes by hand and to focus on their expertise. It helps developers work together, without breaking each others work.
 
 This seminar will cover setting up a basic continuous integration system, and go into details of what a good CI system should do.
 
