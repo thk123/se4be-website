@@ -1,0 +1,5 @@
+<details>
+    <summary>Seminar Syllabus</summary>
+    {% capture syllabus_contents %}{% include seminar_details/{{ include.content }} %}{% endcapture %}
+    {{ syllabus_contents | markdownify }}
+</details>
