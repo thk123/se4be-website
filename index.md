@@ -191,7 +191,7 @@ I offer a course covering the most important aspects of software development bes
 
 **[Get in touch](mailto:hi@tkiley.co.uk) today to discuss how your business can benefit from this course.**
 
-The seminars can be delivered at on-site, via a video call or a hybrid approach - whichever works best for you.  I am based in Oxford, UK.
+The seminars can be delivered at on-site, via a video call or a hybrid approach - whichever works best for you. I am based in Oxford, UK.
 
 I also offer a flexible hourly or daily rate for after the course to discuss any on-going challenges you are facing.
 
