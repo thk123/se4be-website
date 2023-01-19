@@ -4,14 +4,14 @@ html {
     font-size: 1.7em;
 }
 
-h1, h2, h3 {
+h1, h2, h3, #header {
     font-family: Helvetica, Arial, sans-serif;
 }
 
 em {
-    color:#fb8c00;
     font-style: normal;
-    font-weight: bold;
+    font-weight: bolder;
+
 }
 
 /*All anchor targets need the height of the sticky #header
@@ -38,6 +38,7 @@ a:hover
     width: 60%;
     min-width: 1000px;
     background-color: #fffbf0;
+    margin-bottom: 20vh;
 }
 
 h2
@@ -96,6 +97,7 @@ h2
         width: 100%;
         margin:0;
         min-width: 355px;
+        margin-bottom: 0vh;
     }
 }
 
@@ -163,7 +165,6 @@ h1 {
 #content
 {
     padding-bottom: 2em;
-    margin-bottom: 20vh;
 }
 
 #content ol,ul
