@@ -10,10 +10,6 @@ title: Software Engineering for Busy Experts
 
 Writing code is now an _essential part of all science and technology_ research and development - yet many of the scientists and domain experts have _never received training on software engineering_ best practices, and are instead expected to figure it out. The result of this is slow software development and unreliable software.
 
-> "Having Thomas come on site and give these seminars massively improved our productivity"
->
-> *A Company*
-
 I can deliver a course and on-going support that will teach your developers the _industry standard techniques_ to write more reliable code faster.
 
 Email me at [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) to discuss how this course can help your company develop software effectively.
