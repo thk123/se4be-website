@@ -18,7 +18,9 @@ Email me at [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) to discuss how this course
 
 I have been writing code for ten years in a range of industries including science, technology, games and healthcare. In this time I have learnt how good software practices speed up delivery and increase code quality.
 
-I am really motivated to use my experience of software engineering experts fulfil their technologies potential. Please [get in touch](mailto:hi@tkiley.co.uk) to unlock your expertise.
+I am really motivated to use my experience of software engineering to help experts fulfil their technologies potential.
+
+Please [get in touch](mailto:hi@tkiley.co.uk) to see how I can help make the most of your expertise.
 
 ## Course Syllabus
 
@@ -30,7 +32,7 @@ The course consists of 5 seminars:
  4. [Code Review](#seminar-d-code-review)
  5. [Continuous Integration](#seminar-e-continuous-integration)
 
-Each of the seminars features _practical examples_ to see how these techniques can be applied. These seminars take the form of a 45 minute presentation plus plenty of time for questions.
+These seminars take the form of a 45 minute presentation plus plenty of time for questions. Each of the seminars will feature plenty of _practical examples_ to see how these techniques can be applied.
 
 The seminars can be delivered in person at your office, via a video call or a hybrid approach.
 
@@ -44,11 +46,11 @@ I want to foster an on-going relationship after you have completed the course to
 
 ### Seminar A: Source Control
 
-Source control is essential tool for any project with multiple developers. This seminar will teach you how to use it to improve collaboration.
+Source control is essential tool for any project with multiple developers. This seminar will teach you how to use source control to improve collaboration.
 
-**Source control is indispensable for working with other developers on code.**
+**Source control is indispensable for any project with multiple developers.**
 
-Source control allows developers to iterate with confidence, share works-in-progress with others and see what changes introduced problems. No software project should be undertaken without it.
+Source control allows developers to iterate with confidence, share works-in-progress with others and see what changes introduced problems. _No software project should be undertaken without it._
 
 I will cover setting up source control for your project, before going onto best practices for using them successfully.
 
@@ -64,15 +66,15 @@ Automated tests are a way to automatically improve the stability and accuracy of
 
 Automated tests will speed up development, as domain experts won't have to constantly test their changes by hand. My motto forged from years of practical experience is _code that isn't tested, does not work_.
 
-This seminar will explain all the ways in which automated tests are useful. It will cover how to write tests, even when the code is complicated, with plenty of examples.
+This seminar will convince developers of the value of automated tests. It will cover how to write tests, even for complicated code. There will be plenty of examples to help developers understand.
 
-[Get in touch](mailto:hi@tkiley.co.uk) today to start writing automated tests today.
+[Get in touch](mailto:hi@tkiley.co.uk) today to start writing automated tests.
 
 {% include syllabus_section.html content="b_automated_tests.md" %}
 
 ### Seminar C: "Good" Code
 
-Writing "good" code is necessary to ensure software can be efficiently developed over time. This seminar will give developers a large toolkit of techniques that will make your code more readable, testable and maintainable.
+Writing good code is necessary to ensure software can be efficiently developed over time. This seminar will give developers a large toolkit of techniques that will make your code more readable, testable and maintainable - the qualities of good code.
 
 **Good code allows future developers to understand and therefore improve software.**
 
@@ -88,7 +90,7 @@ A code review process improves code quality and shares knowledge amongst develop
 
 **A code review process will upskill your developers and improve the quality of your code.**
 
-Code review _ensures that the code is understood by everyone_. This is necessary to ensure projects can be developed over a longer time frame as teams change. It also facilitates _organic sharing of coding best practices_ - ensuring new developers learn quickly.
+Code review _ensures that the code is understood by everyone_. This is necessary to ensure projects can be developed over a longer time frame as teams change. It also facilitates _organic sharing of coding best practices_ - ensuring new developers learn quickly on the job.
 
 This seminar will cover all the advantages of a code review process. It will explain how to implement one, and then how to make the most of it.
 
@@ -98,15 +100,15 @@ This seminar will cover all the advantages of a code review process. It will exp
 
 ### Seminar E: Continuous Integration
 
-Continuous Integration (CI) is an industry standard approach to catches problems before they affect other developers and customers. This seminar will show developers how to set a CI up immediately, and how to make it as useful as possible.
+Continuous Integration (CI) is an industry standard approach to catch problems before they affect other developers and customers. This seminar will show developers how to set up a CI, and how to make it as useful as possible.
 
 **Continuous Integration allows developers to make changes confidently and efficiently.**
 
 Using CI is a cheap and easy way to _increase the reliability of your software_. Every change to the code is checked automatically, freeing experts up from testing changes by hand and to focus on their expertise. It helps developers work together, without breaking each others work.
 
-This seminar will cover setting up a basic continuous integration system, and go into details of what a good CI system should do.
+This seminar will cover setting up a basic CI, and go into details of what a good CI system should do.
 
-[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to get your CI system up and running.
+[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to get your CI up and running.
 
 {% include syllabus_section.html content="e_ci.md" %}
 
