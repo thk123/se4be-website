@@ -8,11 +8,11 @@ title: Software Engineering for Busy Experts
 
 **[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use software industry best practices to make optimal use of your expertise.**
 
-Writing code is now an _essential part of all science and technology_ research and development - yet many of the scientists and domain experts have _never received training on software engineering_ best practices, and are instead expected to figure it out. The result of this is slow software development and unreliable software.
+Writing code is now an _essential part of all science and technology_ research and development - yet many of the scientists and domain experts have _never received training on software engineering_ best practices, and are instead expected to figure it out. The result of this is slow and unreliable software development.
 
-I can deliver a course and on-going support that will teach your developers the _industry standard techniques_ to write more reliable code faster.
+I can deliver a course and provide on-going support that will teach your developers the _industry standard techniques_ to write more reliable code faster.
 
-Email me at [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) to discuss how this course can help your company develop software effectively.
+Email me at [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) to discuss how this course can help your company or research team develop software effectively.
 
 ## About Thomas
 
@@ -20,7 +20,7 @@ I have been writing code for ten years in a range of industries including scienc
 
 I am really motivated to use my experience of software engineering to help experts fulfil their technologies potential.
 
-Please [get in touch](mailto:hi@tkiley.co.uk) to see how I can help make the most of your expertise.
+Please [get in touch](mailto:hi@tkiley.co.uk) to learn how I can help you make the most of your expertise.
 
 ## Course Syllabus
 
