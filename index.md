@@ -128,8 +128,6 @@ I offer a course covering the most important aspects of software development bes
 
 The seminars can be delivered at on-site, via a video call or a hybrid approach - whichever works best for you. I am based in Oxford, UK.
 
-You can download a [PDF of the course syllabus](./assets/pdf/Software Engineering for Busy Experts Syllabus.pdf){:download="Software Engineering for Busy Experts Syllabus"}
-
 I also offer a flexible hourly or daily rate for after the course to discuss any on-going challenges you are facing.
 
 I am deeply passionate about helping domain experts become better software engineers. Please [email me](mailto:hi@tkiley.co.uk) to arrange a chat and we can discuss a format that works for you.
