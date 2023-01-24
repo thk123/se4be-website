@@ -60,7 +60,7 @@ Source control is essential tool for any project with multiple developers. This 
 
 Source control allows developers to iterate with confidence, share works-in-progress with others and see what changes introduced problems. _No software project should be undertaken without it._
 
-I will cover setting up source control for your project, before going onto best practices for using them successfully.
+I will cover setting up source control for your project, before going onto best practices for using it successfully.
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use source control effectively.
 
