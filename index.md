@@ -44,6 +44,14 @@ I want to foster an on-going relationship after you have completed the course to
 
 [Get in touch](mailto:hi@tkiley.co.uk) today to learn the skills needed for _effective software development_.
 
+## Course Outcomes
+
+Once you have completed the course, your developers will:
+
+* Store their code in source control - ensuring reproducible results and easier collaboration
+* Write and run automated tests - eliminating bugs and accelerating development times
+* Write better code by applying standard software engineering techniques and reviewing each others work
+
 ### Seminar A: Source Control
 
 Source control is essential tool for any project with multiple developers. This seminar will teach you how to use source control to improve collaboration.
