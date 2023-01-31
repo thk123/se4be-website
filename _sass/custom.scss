@@ -18,7 +18,7 @@ em {
 This number will need to be adjusted if the height of #header is
 changed.
 */
-h1, h2, h3 {
+h1, h2, h3, .citation {
     scroll-margin-top: calc(max(3rem, 30vh - 2rem));
 }
 
@@ -233,4 +233,11 @@ summary {
 
 #services {
     margin-top: 1cm;
+}
+
+
+.citation {
+    font-size: 0.5rem;
+    padding-left: 1.7em;
+    text-indent:-1.7em;
 }
