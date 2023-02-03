@@ -10,11 +10,9 @@ title: Software Engineering for Busy Experts
 
 Writing code is now an _essential part of all science and technology_ research and development<sup>[1](#cite-1)</sup> - yet many of the scientists and domain experts have _never received training on software engineering_ best practices, and are instead expected to figure it out. The result of this is slow and unreliable software development<sup>[2](#cite-2)</sup>.
 
-I can deliver a course and provide on-going support that will teach your developers the _industry standard techniques_ to write more reliable code faster. These techniques are recommended for all scientific software developers<sup>[3](#cite-3)</sup> and will allow your code to follow the FAIR principles<sup>[4](#cite-4)</sup>.
+I can deliver a course and provide on-going support that will teach your developers the _industry standard techniques_ to write more reliable code faster. These techniques are recommended for all scientific software developers<sup>[3](#cite-3)</sup> and support modern scientific best practices (such as the FAIR principles)<sup>[4](#cite-4)</sup>.
 
-*[FAIR]: findability, accessibility, interoperability, and reusability
-
-Email me at [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) to discuss how this course can help your company or research team develop software effectively.
+Email me at [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) to discuss how this course can help your company or research team develop software effectively
 
 ## About Thomas
 
@@ -39,7 +37,7 @@ The seminars can be delivered in person at your office, via a video call or a hy
 
 I am happy to tailor the course to _match your needs, experience and technologies_.
 
-**[Get in touch](mailto:hi@tkiley.co.uk) today to craft a bespoke course for your business.**
+**[Get in touch](mailto:hi@tkiley.co.uk) today to craft a bespoke course for your organisation.**
 
 I want to foster an on-going relationship after you have completed the course to _help you put these tools and techniques into practice_.
 
@@ -111,7 +109,7 @@ This seminar will cover setting up a basic CI, and go into details of what a goo
 
 I offer a course covering the most important aspects of software development best practices, with the option to tailor any and all of the seminars to better meet your precise needs and technologies.
 
-**[Get in touch](mailto:hi@tkiley.co.uk) today to discuss how your business can benefit from this course.**
+**[Get in touch](mailto:hi@tkiley.co.uk) today to discuss how your organisation can benefit from this course.**
 
 The seminars can be delivered at on-site, via a video call or a hybrid approach - whichever works best for you. I am based in Oxford, UK.
 
