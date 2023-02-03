@@ -1,0 +1,1 @@
+\[2\]: Chawla D.S. Influential Pandemic Simulation Verified by Code Checkers. 2020. [https://media.nature.com/original/magazine-assets/d41586-020-01685-y/d41586-020-01685-y.pdf](https://media.nature.com/original/magazine-assets/d41586-020-01685-y/d41586-020-01685-y.pdf){:target="_blank"}

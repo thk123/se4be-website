@@ -18,7 +18,7 @@ em {
 This number will need to be adjusted if the height of #header is
 changed.
 */
-h1, h2, h3 {
+h1, h2, h3, .citation {
     scroll-margin-top: calc(max(3rem, 30vh - 2rem));
 }
 
@@ -59,6 +59,7 @@ h2
     flex-wrap: wrap-reverse;
     height: 15vh;
     min-height: 3rem;
+    z-index: 1;
 }
 
 #header ul
@@ -233,4 +234,23 @@ summary {
 
 #services {
     margin-top: 1cm;
+}
+
+sup {
+    font-size:0.5rem;
+}
+
+
+.citation {
+    font-size: 0.5rem;
+    padding-left: 1.7em;
+    text-indent:-1.7em;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+}
+
+.citation:target {
+    background-color: #ffa;
+    transition: all 1s linear;
+    -webkit-transition: all 1s linear;
 }
