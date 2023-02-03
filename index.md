@@ -10,7 +10,7 @@ title: Software Engineering for Busy Experts
 
 Writing code is now an _essential part of all science and technology_ research and development<sup>[1](#cite-1)</sup> - yet many of the scientists and domain experts have _never received training on software engineering_ best practices, and are instead expected to figure it out. The result of this is slow and unreliable software development<sup>[2](#cite-2)</sup>.
 
-I can deliver a course and provide on-going support that will teach your developers the _industry standard techniques_ to write more reliable code faster. These techniques are recommened for all scientific software developers<sup>[3](#cite-3)</sup> and will allow your code to follow the FAIR principles<sup>[4](#cite-4)</sup>.
+I can deliver a course and provide on-going support that will teach your developers the _industry standard techniques_ to write more reliable code faster. These techniques are recommended for all scientific software developers<sup>[3](#cite-3)</sup> and will allow your code to follow the FAIR principles<sup>[4](#cite-4)</sup>.
 
 *[FAIR]: findability, accessibility, interoperability, and reusability
 
