@@ -37,6 +37,7 @@ a:hover
     margin: auto;
     width: 60%;
     min-width: 1000px;
+    max-width: 1200px;
     background-color: #fffbf0;
     margin-bottom: 20vh;
 }
@@ -247,6 +248,10 @@ sup {
     text-indent:-1.7em;
     padding-top: 0.1em;
     padding-bottom: 0.1em;
+    /* Ensure citation links don't bust out of the container on narrow devices
+       https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
 }
 
 .citation:target {
