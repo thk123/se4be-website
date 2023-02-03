@@ -26,13 +26,12 @@ Please [get in touch](mailto:hi@tkiley.co.uk) to learn how I can help you make t
 
 ## Course Syllabus
 
-The course consists of 5 seminars:
+The course consists of 4 seminars:
 
- 1. [Source Control](#seminar-a-source-control)
- 2. [Automated Tests](#seminar-b-automated-tests)
- 3. [“Good” Code](#seminar-c-good-code)
- 4. [Code Review](#seminar-d-code-review)
- 5. [Continuous Integration](#seminar-e-continuous-integration)
+ 1. [Automated Tests](#seminar-a-automated-tests)
+ 2. [“Good” Code](#seminar-b-good-code)
+ 3. [Code Review](#seminar-c-code-review)
+ 4. [Continuous Integration](#seminar-d-continuous-integration)
 
 These seminars take the form of a 45 minute presentation plus plenty of time for questions. Each of the seminars will feature plenty of _practical examples_ to see how these techniques can be applied.
 
@@ -50,25 +49,11 @@ I want to foster an on-going relationship after you have completed the course to
 
 Once you have completed the course, your developers will:
 
-* Store their code in source control - ensuring reproducible results and easier collaboration
-* Write and run automated tests - eliminating bugs and accelerating development times
-* Write better code by applying standard software engineering techniques and reviewing each others work
+* Write and run automated tests - eliminating bugs and accelerating development times.
+* Write better code by applying standard software engineering techniques.
+* Effectively use code review tools to share knowledge and expertise.
 
-### Seminar A: Source Control
-
-Source control is essential tool for any project with multiple developers. This seminar will teach you how to use source control to improve collaboration.
-
-**Source control is indispensable for any project with multiple developers.**
-
-Source control allows developers to iterate with confidence, share works-in-progress with others and see what changes introduced problems. _No software project should be undertaken without it._
-
-I will cover setting up source control for your project, before going onto best practices for using it successfully.
-
-[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use source control effectively.
-
-{% include syllabus_section.html content="a_source_control.md" %}
-
-### Seminar B: Automated Tests
+### Seminar A: Automated Tests
 
 Automated tests are a way to automatically improve the stability and accuracy of your software. This seminar will explain how to create tests, freeing developers up from manual testing to focus on their expertise.
 
@@ -82,7 +67,7 @@ This seminar will convince developers of the value of automated tests. It will c
 
 {% include syllabus_section.html content="b_automated_tests.md" %}
 
-### Seminar C: "Good" Code
+### Seminar B: "Good" Code
 
 Writing good code is necessary to ensure software can be efficiently developed over time. This seminar will give developers a large toolkit of techniques that will make your code more readable, testable and maintainable - the qualities of good code.
 
@@ -94,7 +79,7 @@ By applying some simple techniques you can ensure the code you write is _readabl
 
 {% include syllabus_section.html content="c_good_code.md" %}
 
-### Seminar D: Code Review
+### Seminar C: Code Review
 
 A code review process improves code quality and shares knowledge amongst developers. This seminar will teach developers a system for efficiently reviewing code, focusing on what is important to improve.
 
@@ -108,7 +93,7 @@ This seminar will cover all the advantages of a code review process. It will exp
 
 {% include syllabus_section.html content="d_code_review.md" %}
 
-### Seminar E: Continuous Integration
+### Seminar D: Continuous Integration
 
 Continuous Integration (CI) is an industry standard approach to catch problems before they affect other developers and customers. This seminar will show developers how to set up a CI, and how to make it as useful as possible.
 
