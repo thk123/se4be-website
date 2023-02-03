@@ -1,1 +1,1 @@
-\[2\]: G. Pinto, I. Wiese and L. F. Dias, "How do scientists develop scientific software? An external replication," 2018 IEEE 25th International Conference on Software Analysis, Evolution and Reengineering (SANER), Campobasso, Italy, 2018, pp. 582-591, doi: 10.1109/SANER.2018.8330263.
+\[2\]: Chawla D.S. Influential Pandemic Simulation Verified by Code Checkers. 2020. [https://media.nature.com/original/magazine-assets/d41586-020-01685-y/d41586-020-01685-y.pdf](https://media.nature.com/original/magazine-assets/d41586-020-01685-y/d41586-020-01685-y.pdf){:target="_blank"}

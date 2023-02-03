@@ -1,9 +1,1 @@
-\[1\]: Dustin Heaton, Jeffrey C. Carver,
-Claims about the use of software engineering practices in science: A systematic literature review,
-Information and Software Technology,
-Volume 67,
-2015,
-Pages 207-219,
-ISSN 0950-5849,
-[https://doi.org/10.1016/j.infsof.2015.07.011](https://doi.org/10.1016/j.infsof.2015.07.011){:target="_blank"}.
-[https://www.sciencedirect.com/science/article/pii/S0950584915001342](https://www.sciencedirect.com/science/article/pii/S0950584915001342){:target="_blank"}
+\[1\]: G. Pinto, I. Wiese and L. F. Dias, "How do scientists develop scientific software? An external replication," 2018 IEEE 25th International Conference on Software Analysis, Evolution and Reengineering (SANER), Campobasso, Italy, 2018, pp. 582-591, doi: 10.1109/SANER.2018.8330263.
