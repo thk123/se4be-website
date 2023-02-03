@@ -39,7 +39,7 @@ The seminars can be delivered in person at your office, via a video call or a hy
 
 I am happy to tailor the course to _match your needs, experience and technologies_.
 
-**[Get in touch](mailto:hi@tkiley.co.uk) today to craft a bespoke course for your business.**
+**[Get in touch](mailto:hi@tkiley.co.uk) today to craft a bespoke course for your organisation.**
 
 I want to foster an on-going relationship after you have completed the course to _help you put these tools and techniques into practice_.
 
@@ -111,7 +111,7 @@ This seminar will cover setting up a basic CI, and go into details of what a goo
 
 I offer a course covering the most important aspects of software development best practices, with the option to tailor any and all of the seminars to better meet your precise needs and technologies.
 
-**[Get in touch](mailto:hi@tkiley.co.uk) today to discuss how your business can benefit from this course.**
+**[Get in touch](mailto:hi@tkiley.co.uk) today to discuss how your organisation can benefit from this course.**
 
 The seminars can be delivered at on-site, via a video call or a hybrid approach - whichever works best for you. I am based in Oxford, UK.
 
