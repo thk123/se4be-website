@@ -9,3 +9,5 @@ matrix:
     pipeline:
     - pyspelling.filters.html:
         comments: false
+        ignores:
+          - ".citation"
