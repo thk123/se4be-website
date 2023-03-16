@@ -1,10 +1,17 @@
 :root {
     --body-font: 'Old Standard TT', 'Times New Roman', Times, serif;
     --header-font: Helvetica, Arial, sans-serif;
+    --pull-quote-font: var(--header-font);
     --background-colour: #37474fff;
+    --header-background-colour: black;
     --link-colour: #fb8c00;
     --body-colour: #fffbf0;
     --header-colour: #00695c;
+    --pull-quote-colour: white;
+    --header-font-weight: 200;
+    --name-font-weight: 100;
+    --pull-quote-font-weight: 400;
+    --em-font-weight: bolder;
 }
 
 html {
@@ -15,11 +22,12 @@ html {
 
 h1, h2, h3, #header {
    font-family: var(--header-font);
+   font-weight: var(--header-font-weight);
 }
 
 em {
     font-style: normal;
-    font-weight: bolder;
+    font-weight: var(--em-font-weight);
 
 }
 
@@ -119,7 +127,7 @@ p, h1 {
     }
 
 h1 {
-    background-color: black;
+    background-color: var(--header-background-colour);
     color: white;
     padding-top:3em;
     padding-bottom: 1em;
@@ -151,6 +159,9 @@ h1 {
     text-align: right;
     float:right;
     background-color: var(--header-colour);
+    font-family: var(--pull-quote-font);
+    font-weight: var(--pull-quote-font-weight);
+    color: var(--pull-quote-colour);
     color:white;
     margin-bottom: 1em;
     margin-top: 0.5em;
