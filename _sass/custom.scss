@@ -7,9 +7,10 @@
     --body-background-colour: #F7FFF7;
     --name-background-colour: #A3B18A;
     --header-background-colour: #A3B18A;    
-    --pull-quote-background-colour: #A3B18A;
+    --pull-quote-background-colour: #00695C;
     --summary-background-colour: var(--body-background-colour);
-    --link-colour: #361D2E;
+    --link-colour: #00695C;
+    --alternate-link-colour: #361D2E;
     --body-colour: black;
     --name-colour: #00695C;
     --header-colour: #F7FFF7;
@@ -50,14 +51,12 @@ h1, h2, h3, .citation {
     scroll-margin-top: calc(max(3rem, 30vh - 2rem));
 }
 
-a
-{
+a {
     color: var(--link-colour);
 }
 
-a:hover
-{
-    color: var(--body-font-colour);
+a:hover {
+    color: var(--body-background-colour);
     background-color: var(--link-colour);
 }
 
@@ -98,6 +97,17 @@ h2 {
 #header ul
 {
     padding-left: 0px;
+}
+
+#header a
+{
+    color: var(--alternate-link-colour);
+}
+
+#header a:hover
+{
+    color: var(--body-background-colour);
+    background-color: var(--alternate-link-colour);
 }
 
 #name
@@ -179,7 +189,7 @@ h1 {
     font-size: 1.5em;
     text-align: right;
     float:right;
-    background-color: var(--header-background-colour);
+    background-color: var(--pull-quote-background-colour);
     font-family: var(--pull-quote-font);
     font-weight: var(--pull-quote-font-weight);
     color: var(--pull-quote-colour);
@@ -190,6 +200,17 @@ h1 {
     padding-right: calc(0.5em + 1cm);
     margin-left:-1cm;
     margin-right: -1cm;
+}
+
+#content strong a
+{
+    color: var(--alternate-link-colour);
+}
+
+#content strong a:hover
+{
+    color: var(--body-background-colour);
+    background-color: var(--alternate-link-colour);
 }
 
 #content blockquote
