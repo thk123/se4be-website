@@ -22,7 +22,7 @@ I am really motivated to use my experience of software engineering to help exper
 
 Please [get in touch](mailto:hi@tkiley.co.uk) to learn how I can help you make the most of your expertise.
 
-{% include image.html image="me.JPG"}
+{% include image.html image="me.JPG" %}
 
 ## Course Syllabus
 
