@@ -4,7 +4,7 @@ title: Software Engineering for Busy Experts
 ---
 # Software Engineering Best Practices for Busy Experts
 
-{% include opening_box.html content="I offer a course designed to help scientists, engineers and other domain experts to learn the most important software engineering best practices to help them write correct code more efficiently." %}
+I offer a course designed to help scientists, engineers and other domain experts to learn the most important software engineering best practices to help them write correct code more efficiently.
 
 **[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use software industry best practices to make optimal use of your expertise.**
 
@@ -21,6 +21,8 @@ I have been writing code for ten years in a range of industries including scienc
 I am really motivated to use my experience of software engineering to help experts fulfil their technologies potential.
 
 Please [get in touch](mailto:hi@tkiley.co.uk) to learn how I can help you make the most of your expertise.
+
+{% include image.html image="me.JPG"}
 
 ## Course Syllabus
 
