@@ -264,6 +264,11 @@ summary {
     padding-left: 1cm;
 }
 
+summary:hover {
+    background-color: var(--summary-colour);
+    color: var(--body-background-colour);
+}
+
 /* Fix for services not having a margin below the syllabus box */
 
 #services {
