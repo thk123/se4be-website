@@ -11,6 +11,7 @@
     --summary-background-colour: var(--body-background-colour);
     --link-colour: #00695C;
     --alternate-link-colour: #361D2E;
+    --pull-quote-link-colour: #361D2E;
     --body-colour: black;
     --name-colour: #00695C;
     --header-colour: #F7FFF7;
@@ -204,13 +205,13 @@ h1 {
 
 #content strong a
 {
-    color: var(--alternate-link-colour);
+    color: var(--pull-quote-link-colour);
 }
 
 #content strong a:hover
 {
     color: var(--body-background-colour);
-    background-color: var(--alternate-link-colour);
+    background-color: var(--pull-quote-link-colour);
 }
 
 #content blockquote
