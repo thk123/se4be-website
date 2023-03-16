@@ -1,12 +1,16 @@
 :root {
-    --body-font: 'Old Standard TT', 'Times New Roman', Times, serif;
+    --body-font: 'Old Standard TT', serif;
+    --name-font: 'Old Standard TT', serif;
     --header-font: Helvetica, Arial, sans-serif;
     --pull-quote-font: var(--header-font);
     --background-colour: #37474fff;
-    --header-background-colour: black;
+    --name-background-colour: #00695c;
+    --header-background-colour: black;    
+    --pull-quote-background-colour: #00695c;
     --link-colour: #fb8c00;
     --body-colour: #fffbf0;
-    --header-colour: #00695c;
+    --name-colour: white;
+    --header-colour: white;
     --pull-quote-colour: white;
     --header-font-weight: 200;
     --name-font-weight: 100;
@@ -46,7 +50,7 @@ a
 
 a:hover
 {
-    color: white;
+    color: var(--pull-quote-font-colour);
     background-color: var(--link-colour);
 }
 
@@ -70,10 +74,10 @@ h2
     padding-top: calc(15vh - 2rem);
     padding-left: 5%;
     padding-right: 5%;
-    background-color: var(--header-colour);
+    background-color: var(--name-background-colour);
     display: flex;
     flex-direction:row;
-    color: white;
+    color: var(--name-colour);
     flex-wrap: wrap-reverse;
     height: 15vh;
     min-height: 3rem;
@@ -87,7 +91,7 @@ h2
 
 #name
 {
-    background-color: var(--header-colour);
+    background-color: var(--name-background-colour);
     text-align: left;
 
     margin: 0;
@@ -95,19 +99,25 @@ h2
 
 }
 
+#name h2
+{
+    font-family: var(--name-font);
+    font-weight: var(--name-font-weight);
+}
+
 #contact-details
 {
     flex: 1;
     margin:0;
     text-align: right;
-    background-color: var(--header-colour);
+    background-color: var(--name-background-colour);
 }
 
 #contact-details ul
 {
     margin: 0;
     list-style-type: none;
-    background-color: var(--header-colour);
+    background-color: var(--name-background-colour);
 
 }
 
@@ -158,7 +168,7 @@ h1 {
     font-size: 1.5em;
     text-align: right;
     float:right;
-    background-color: var(--header-colour);
+    background-color: var(--header-background-colour);
     font-family: var(--pull-quote-font);
     font-weight: var(--pull-quote-font-weight);
     color: var(--pull-quote-colour);
