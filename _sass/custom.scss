@@ -4,14 +4,17 @@
     --header-font: Prompt, sans-serif;
     --pull-quote-font: var(--body-font);
     --background-colour: #361D2E;
-    --body-background-colour: white;
+    --body-background-colour: #F7FFF7;
     --name-background-colour: #A3B18A;
     --header-background-colour: #A3B18A;    
     --pull-quote-background-colour: #A3B18A;
+    --summary-background-colour: var(--body-background-colour);
     --link-colour: #361D2E;
+    --body-colour: black;
     --name-colour: #00695C;
     --header-colour: #F7FFF7;
     --pull-quote-colour: #F7FFF7;
+    --summary-colour: var(--link-colour);
     --header-font-weight: thicker;
     --name-font-weight: thicker;
     --pull-quote-font-weight: normal;
@@ -22,6 +25,10 @@ html {
     font-family: var(--body-font);
     background-color: var(--background-colour);
     font-size: 1.7em;
+}
+
+p {
+    color: var(--body-colour);
 }
 
 h1, h2, h3, #header {
@@ -229,8 +236,8 @@ h1 {
 }
 
 summary {
-    background-color: var(--header-background-colour);
-    color: var(--header-colour);
+    background-color: var(--summary-background-colour);
+    color: var(--summary-colour);
     padding-top: 0.1em;
     padding-bottom: 0.1em;
     padding-left: 1cm;
