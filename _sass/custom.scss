@@ -1,11 +1,20 @@
+:root {
+    --body-font: 'Old Standard TT', 'Times New Roman', Times, serif;
+    --header-font: Helvetica, Arial, sans-serif;
+    --background-colour: #37474fff;
+    --link-colour: #fb8c00;
+    --body-colour: #fffbf0;
+    --header-colour: #00695c;
+}
+
 html {
-    font-family: 'Old Standard TT', 'Times New Roman', Times, serif;
-    background-color: #37474fff;
+    font-family: var(--body-font);
+    background-color: var(--background-colour);
     font-size: 1.7em;
 }
 
 h1, h2, h3, #header {
-    font-family: Helvetica, Arial, sans-serif;
+   font-family: var(--header-font);
 }
 
 em {
@@ -24,13 +33,13 @@ h1, h2, h3, .citation {
 
 a
 {
-    color: #fb8c00;
+    color: var(--link-colour);
 }
 
 a:hover
 {
     color: white;
-    background-color: #fb8c00;
+    background-color: var(--link-colour);
 }
 
 .centre {
@@ -38,7 +47,7 @@ a:hover
     width: 60%;
     min-width: 1000px;
     max-width: 1200px;
-    background-color: #fffbf0;
+    background-color: var(--body-colour);
     margin-bottom: 20vh;
 }
 
@@ -53,7 +62,7 @@ h2
     padding-top: calc(15vh - 2rem);
     padding-left: 5%;
     padding-right: 5%;
-    background-color: #00695c;
+    background-color: var(--header-colour);
     display: flex;
     flex-direction:row;
     color: white;
@@ -70,7 +79,7 @@ h2
 
 #name
 {
-    background-color: #00695c;
+    background-color: var(--header-colour);
     text-align: left;
 
     margin: 0;
@@ -83,14 +92,14 @@ h2
     flex: 1;
     margin:0;
     text-align: right;
-    background-color: #00695c;
+    background-color: var(--header-colour);
 }
 
 #contact-details ul
 {
     margin: 0;
     list-style-type: none;
-    background-color: #00695c;
+    background-color: var(--header-colour);
 
 }
 
@@ -141,7 +150,7 @@ h1 {
     font-size: 1.5em;
     text-align: right;
     float:right;
-    background-color: #00695c;
+    background-color: var(--header-colour);
     color:white;
     margin-bottom: 1em;
     margin-top: 0.5em;
@@ -156,7 +165,7 @@ h1 {
     font-size: 1.5em;
     text-align: right;
     float:right;
-    background-color: #00695c;
+    background-color: var(--header-colour);
     color:white;
     margin-bottom: 1em;
     margin-top: 0.5em;
