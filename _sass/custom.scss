@@ -1,8 +1,8 @@
 :root {
-    --body-font: 'Old Standard TT', serif;
+    --body-font: Mukta, sans-serif;
     --name-font: var(--header-font);
-    --header-font: Helvetica, Arial, sans-serif;
-    --pull-quote-font: var(--header-font);
+    --header-font: Prompt, sans-serif;
+    --pull-quote-font: var(--body-font);
     --background-colour: #361D2E;
     --body-background-colour: white;
     --name-background-colour: #A3B18A;
@@ -12,9 +12,9 @@
     --name-colour: #00695C;
     --header-colour: #F7FFF7;
     --pull-quote-colour: #F7FFF7;
-    --header-font-weight: 800;
-    --name-font-weight: 800;
-    --pull-quote-font-weight: 400;
+    --header-font-weight: thicker;
+    --name-font-weight: thicker;
+    --pull-quote-font-weight: normal;
     --em-font-weight: bolder;
 }
 
