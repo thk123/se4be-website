@@ -1,19 +1,19 @@
 :root {
     --body-font: 'Old Standard TT', serif;
-    --name-font: 'Old Standard TT', serif;
+    --name-font: var(--header-font);
     --header-font: Helvetica, Arial, sans-serif;
     --pull-quote-font: var(--header-font);
-    --background-colour: #37474fff;
-    --name-background-colour: #00695c;
-    --header-background-colour: black;    
-    --pull-quote-background-colour: #00695c;
-    --link-colour: #fb8c00;
-    --body-colour: #fffbf0;
-    --name-colour: white;
-    --header-colour: white;
-    --pull-quote-colour: white;
-    --header-font-weight: 200;
-    --name-font-weight: 100;
+    --background-colour: #361D2E;
+    --body-background-colour: white;
+    --name-background-colour: #A3B18A;
+    --header-background-colour: #A3B18A;    
+    --pull-quote-background-colour: #A3B18A;
+    --link-colour: #361D2E;
+    --name-colour: #00695C;
+    --header-colour: #F7FFF7;
+    --pull-quote-colour: #F7FFF7;
+    --header-font-weight: 800;
+    --name-font-weight: 800;
     --pull-quote-font-weight: 400;
     --em-font-weight: bolder;
 }
@@ -50,7 +50,7 @@ a
 
 a:hover
 {
-    color: var(--pull-quote-font-colour);
+    color: var(--body-font-colour);
     background-color: var(--link-colour);
 }
 
@@ -59,7 +59,7 @@ a:hover
     width: 60%;
     min-width: 1000px;
     max-width: 1200px;
-    background-color: var(--body-colour);
+    background-color: var(--body-background-colour);
     margin-bottom: 20vh;
 }
 
@@ -147,8 +147,8 @@ h1 {
 
 #content h2
 {
-    background-color: black;
-    color: white;
+    background-color: var(--header-background-colour);
+    color: var(--header-colour);
     padding-top:3em;
     padding-bottom: 0.5em;
     padding-left: 1cm;
@@ -156,8 +156,8 @@ h1 {
 
 #content h3
 {
-    background-color: black;
-    color: white;
+    background-color: var(--header-background-colour);
+    color: var(--header-colour);
     padding-top:2em;
     padding-bottom: 0.75em;
     padding-left: 1cm;
@@ -254,8 +254,8 @@ h1 {
 }
 
 summary {
-    background-color: black;
-    color: white;
+    background-color: var(--header-background-colour);
+    color: var(--header-colour);
     padding-top: 0.1em;
     padding-bottom: 0.1em;
     padding-left: 1cm;
