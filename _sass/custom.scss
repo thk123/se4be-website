@@ -1,12 +1,12 @@
 :root {
     --body-font: Mukta, sans-serif;
     --name-font: var(--header-font);
-    --header-font: Prompt, sans-serif;
+    --header-font: Nanum Gothic, sans-serif;
     --pull-quote-font: var(--body-font);
     --background-colour: #361D2E;
     --body-background-colour: #F7FFF7;
-    --name-background-colour: #A3B18A;
-    --header-background-colour: #A3B18A;    
+    --name-background-colour: #aaafa1;
+    --header-background-colour: #aaafa1;
     --pull-quote-background-colour: #00695C;
     --summary-background-colour: var(--body-background-colour);
     --link-colour: #00695C;
@@ -71,12 +71,12 @@ a:hover {
 }
 
 h1 {
-    font-size: 2.5em;
+    font-size: 2.2em;
 }
 
 h2 {
     margin:0;
-    font-size: 2em;
+    font-size: 1.9em;
 }
 
 #header {
@@ -160,7 +160,7 @@ p, h1 {
 
 h1 {
     background-color: var(--header-background-colour);
-    color: white;
+    color: var(--header-colour);
     padding-top:3em;
     padding-bottom: 1em;
     margin:0;
@@ -256,7 +256,7 @@ img {
 .image {
     margin-left: 1cm;
     margin-right: 1cm;
-    margin-bottom: 1em;    
+    margin-bottom: 1em;
     margin-top:1em;
 }
 
