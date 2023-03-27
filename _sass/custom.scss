@@ -150,14 +150,7 @@ h2 {
 
 }
 
-@media only screen and (orientation: portrait), (max-width:1000px) {
-    .centre {
-        width: 100%;
-        margin:0;
-        min-width: 355px;
-        margin-bottom: 0vh;
-    }
-}
+
 
 p, h1 {
         padding-left: 1cm;
@@ -311,4 +304,17 @@ sup {
     background-color: #ffa;
     transition: all 1s linear;
     -webkit-transition: all 1s linear;
+}
+
+@media only screen and (orientation: portrait), (max-width:1000px) {
+    .centre {
+        width: 100%;
+        margin:0;
+        min-width: 355px;
+        margin-bottom: 0vh;
+    }
+
+    h1 {
+        padding-top:1em;
+    }
 }
