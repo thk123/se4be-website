@@ -1,17 +1,22 @@
 :root {
+    --orange-colour: #fb8c00;
+    --grey-colour: #A3B1A8;
+    --purple-colour: #49273e;
+    --teal-colour: #00695C;
+
     --body-font: Mukta, sans-serif;
     --name-font: var(--header-font);
     --header-font: Nanum Gothic, sans-serif;
     --pull-quote-font: var(--body-font);
     --background-colour: #49273e;
     --body-background-colour: #F7FFF7;
-    --name-background-colour: #A3B1A8;
-    --header-background-colour: #00695C;
-    --pull-quote-background-colour: #A3B1A8;
+    --name-background-colour: var(--grey-colour);
+    --header-background-colour: var(--teal-colour);
+    --pull-quote-background-colour: var(--grey-colour);
     --summary-background-colour: var(--body-background-colour);
-    --link-colour: #49273e;
-    --alternate-link-colour: #49273e;
-    --pull-quote-link-colour: #49273e;
+    --link-colour: var(--teal-colour);
+    --alternate-link-colour: var(--teal-colour);
+    --pull-quote-link-colour: var(--teal-colour);
     --body-colour: black;
     --name-colour: #F7FFF7;
     --header-colour: #F7FFF7;
@@ -72,6 +77,8 @@ a:hover {
 
 h1 {
     font-size: 2.2em;
+    background-image: url("../images/oxford.jpeg");
+    background-size: cover;
 }
 
 h2 {
