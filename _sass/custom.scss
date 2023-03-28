@@ -1,51 +1,16 @@
-:root {
-    --orange-colour: #fb8c00;
-    --grey-colour: #A3B1A8;
-    --purple-colour: #49273e;
-    --teal-colour: #00695C;
-
-    --body-font: Mukta, sans-serif;
-    --name-font: var(--header-font);
-    --header-font: Nanum Gothic, sans-serif;
-    --pull-quote-font: var(--body-font);
-    --background-colour: #49273e;
-    --body-background-colour: #F7FFF7;
-    --name-background-colour: var(--grey-colour);
-    --header-background-colour: var(--teal-colour);
-    --pull-quote-background-colour: var(--grey-colour);
-    --summary-background-colour: var(--body-background-colour);
-    --link-colour: var(--teal-colour);
-    --alternate-link-colour: var(--teal-colour);
-    --pull-quote-link-colour: var(--teal-colour);
-    --body-colour: black;
-    --name-colour: #F7FFF7;
-    --header-colour: #F7FFF7;
-    --pull-quote-colour: #F7FFF7;
-    --summary-colour: var(--link-colour);
-    --header-font-weight: thicker;
-    --name-font-weight: thicker;
-    --pull-quote-font-weight: normal;
-    --em-font-weight: bolder;
-}
-
 html {
-    font-family: var(--body-font);
-    background-color: var(--background-colour);
+    font-family: 'Old Standard TT', 'Times New Roman', Times, serif;
+    background-color: #37474fff;
     font-size: 1.7em;
 }
 
-p {
-    color: var(--body-colour);
-}
-
 h1, h2, h3, #header {
-   font-family: var(--header-font);
-   font-weight: var(--header-font-weight);
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 em {
     font-style: normal;
-    font-weight: var(--em-font-weight);
+    font-weight: bolder;
 
 }
 
@@ -57,13 +22,15 @@ h1, h2, h3, .citation {
     scroll-margin-top: calc(max(3rem, 30vh - 2rem));
 }
 
-a {
-    color: var(--link-colour);
+a
+{
+    color: #fb8c00;
 }
 
-a:hover {
-    color: var(--body-background-colour);
-    background-color: var(--link-colour);
+a:hover
+{
+    color: white;
+    background-color: #fb8c00;
 }
 
 .centre {
@@ -71,31 +38,25 @@ a:hover {
     width: 60%;
     min-width: 1000px;
     max-width: 1200px;
-    background-color: var(--body-background-colour);
+    background-color: #fffbf0;
     margin-bottom: 20vh;
 }
 
-h1 {
-    font-size: 2.2em;
-    background-image: url("../images/oxford.jpeg");
-    background-size: cover;
-}
-
-h2 {
+h2
+{
     margin:0;
-    font-size: 1.9em;
 }
 
 #header {
     position: sticky;
-    bottom:0px;
+    top:0px;
     padding-top: calc(15vh - 2rem);
     padding-left: 5%;
     padding-right: 5%;
-    background-color: var(--name-background-colour);
+    background-color: #00695c;
     display: flex;
     flex-direction:row;
-    color: var(--name-colour);
+    color: white;
     flex-wrap: wrap-reverse;
     height: 15vh;
     min-height: 3rem;
@@ -107,20 +68,9 @@ h2 {
     padding-left: 0px;
 }
 
-#header a
-{
-    color: var(--alternate-link-colour);
-}
-
-#header a:hover
-{
-    color: var(--body-background-colour);
-    background-color: var(--alternate-link-colour);
-}
-
 #name
 {
-    background-color: var(--name-background-colour);
+    background-color: #00695c;
     text-align: left;
 
     margin: 0;
@@ -128,39 +78,40 @@ h2 {
 
 }
 
-#name h2
-{
-    font-family: var(--name-font);
-    font-weight: var(--name-font-weight);
-}
-
 #contact-details
 {
     flex: 1;
     margin:0;
     text-align: right;
-    background-color: var(--name-background-colour);
+    background-color: #00695c;
 }
 
 #contact-details ul
 {
     margin: 0;
     list-style-type: none;
-    background-color: var(--name-background-colour);
+    background-color: #00695c;
 
 }
 
-
+@media only screen and (orientation: portrait), (max-width:1000px) {
+    .centre {
+        width: 100%;
+        margin:0;
+        min-width: 355px;
+        margin-bottom: 0vh;
+    }
+}
 
 p, h1 {
         padding-left: 1cm;
         padding-right: 1cm;
 
-}
+    }
 
 h1 {
-    background-color: var(--header-background-colour);
-    color: var(--header-colour);
+    background-color: black;
+    color: white;
     padding-top:3em;
     padding-bottom: 1em;
     margin:0;
@@ -169,8 +120,8 @@ h1 {
 
 #content h2
 {
-    background-color: var(--header-background-colour);
-    color: var(--header-colour);
+    background-color: black;
+    color: white;
     padding-top:3em;
     padding-bottom: 0.5em;
     padding-left: 1cm;
@@ -178,8 +129,8 @@ h1 {
 
 #content h3
 {
-    background-color: var(--header-background-colour);
-    color: var(--header-colour);
+    background-color: black;
+    color: white;
     padding-top:2em;
     padding-bottom: 0.75em;
     padding-left: 1cm;
@@ -190,10 +141,7 @@ h1 {
     font-size: 1.5em;
     text-align: right;
     float:right;
-    background-color: var(--pull-quote-background-colour);
-    font-family: var(--pull-quote-font);
-    font-weight: var(--pull-quote-font-weight);
-    color: var(--pull-quote-colour);
+    background-color: #00695c;
     color:white;
     margin-bottom: 1em;
     margin-top: 0.5em;
@@ -203,23 +151,12 @@ h1 {
     margin-right: -1cm;
 }
 
-#content strong a
-{
-    color: var(--pull-quote-link-colour);
-}
-
-#content strong a:hover
-{
-    color: var(--body-background-colour);
-    background-color: var(--pull-quote-link-colour);
-}
-
 #content blockquote
 {
     font-size: 1.5em;
     text-align: right;
     float:right;
-    background-color: var(--header-colour);
+    background-color: #00695c;
     color:white;
     margin-bottom: 1em;
     margin-top: 0.5em;
@@ -242,39 +179,56 @@ h1 {
     list-style-type: lower-alpha;
 }
 
-#content li {
-    padding-right: 1cm;
+.opening-box-container
+{
+    display: flex;
+    flex-direction:row;
 }
 
-img {
-    width: 100%;
-    object-fit: cover;
+.opening-box-left-text
+{
+    flex: 3;
 }
 
-.image img {
-    height: 100%;
-    max-height: 60vh;
-    object-position: 0px 40%;
-}
-
-.image {
-    margin-left: 1cm;
+.opening-box-right-image
+{
+    flex: 1;
     margin-right: 1cm;
-    margin-bottom: 1em;
     margin-top:1em;
 }
 
+.opening-box-right-image img {
+    width: 100%;
+    height: 0px;
+    min-height: 100%;
+    object-fit: cover;
+    object-position: 40% 40%;
+}
+
+@media only screen and (orientation: portrait), (max-width:600px) {
+    .opening-box-container
+    {
+        display: block;
+    }
+    .opening-box-right-image img {
+        width: 100%;
+        height: 100%;
+        max-height: 25vh;
+        object-fit: cover;
+        object-position: 0px 40%;
+    }
+
+    .opening-box-right-image {
+        margin-left: 1cm;
+    }
+}
+
 summary {
-    background-color: var(--summary-background-colour);
-    color: var(--summary-colour);
+    background-color: black;
+    color: white;
     padding-top: 0.1em;
     padding-bottom: 0.1em;
     padding-left: 1cm;
-}
-
-summary:hover {
-    background-color: var(--summary-colour);
-    color: var(--body-background-colour);
 }
 
 /* Fix for services not having a margin below the syllabus box */
@@ -304,17 +258,4 @@ sup {
     background-color: #ffa;
     transition: all 1s linear;
     -webkit-transition: all 1s linear;
-}
-
-@media only screen and (orientation: portrait), (max-width:1000px) {
-    .centre {
-        width: 100%;
-        margin:0;
-        min-width: 355px;
-        margin-bottom: 0vh;
-    }
-
-    h1 {
-        padding-top:1em;
-    }
 }
