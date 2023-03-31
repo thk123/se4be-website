@@ -7,6 +7,10 @@ img {
     object-fit: cover;
 }
 
+#page {
+    padding-bottom: 3rem;
+}
+
 #title-filter, #content h2, #content h3, #content p, #content .image, #content ol, #content ul, #content summary {
     padding-left: var(--margin-size);
     padding-right: var(--margin-size);
