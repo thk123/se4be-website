@@ -127,3 +127,4 @@ I am deeply passionate about helping domain experts become better software engin
 
 {% include citation.html cite_index="cite-4" %}
 
+{% include citation.html cite_index="image-source" %}
