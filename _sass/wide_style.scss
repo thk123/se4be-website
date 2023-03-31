@@ -30,6 +30,8 @@
     /* Seminars */
     --seminar-header-font-colour: var(--mint-cream);
     --seminar-header-background-colour: var(--oxford-blue);
+    --summary-font-colour: var(--oxford-blue);
+    --summary-link-hover-colour: var(--mint-cream);
 }
 
 html {
@@ -97,4 +99,12 @@ a:hover {
 #content em {
     font-style: normal;
     font-weight: bold;
+}
+#content summary {
+    color: var(--summary-font-colour);
+}
+
+#content summary:hover {
+    background-color: var(--summary-font-colour);
+    color: var(--summary-link-hover-colour);
 }

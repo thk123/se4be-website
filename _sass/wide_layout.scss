@@ -42,6 +42,11 @@ img {
     padding: 1rem;
 }
 
+#content summary {
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+}
+
 .citation {
     font-size: 0.5rem;
     /* Ensures that the second line of the citation is inline with the start */
