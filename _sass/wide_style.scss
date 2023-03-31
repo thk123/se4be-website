@@ -1,31 +1,36 @@
 :root {
     /* Colours */
-    --black: black;
-    --teal: #00695C;
-    --offwhite: #F7FFF7;
+    --rich-black: #04080f;
+    --mint-cream: #F7FFF7;
     --oxford-blue: #101935;
     --french-grey: #CBD1E1;
 
     /* Page Wide */
     --body-font: Mukta, sans-serif;
+    --body-font-colour: var(--rich-black);
+    --body-background-colour: var(--mint-cream);
     --link-font-colour: var(--oxford-blue);
 
     /* Page Header */
-    --header-font-colour: var(--offwhite);
+    --header-font-colour: var(--mint-cream);
     --header-link-hover-background-colour: var(--french-grey);
 
     /* Sections */
-    --section-header-background-colour: var(--teal);
-    --section-header-font-colour: var(--offwhite);
+    --section-header-background-colour: var(--oxford-blue);
+    --section-header-font-colour: var(--mint-cream);
 
     /* Seminars */
-    --seminar-header-font-colour: var(--offwhite);
-    --seminar-header-background-colour: var(--teal);
+    --seminar-header-font-colour: var(--mint-cream);
+    --seminar-header-background-colour: var(--oxford-blue);
 }
 
 html {
     font-family: var(--body-font);
     font-size: 1.7rem;
+    color: var(--body-font-colour);
+    background-color: var(--body-background-colour);
+}
+
 }
 
 #title {
