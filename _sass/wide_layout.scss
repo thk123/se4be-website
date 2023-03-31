@@ -91,10 +91,7 @@ img {
     padding-left: 0.5rem;
 }
 
-.citation {
-    /* Ensures that the second line of the citation is inline with the start */
-    margin-left: 1.5em;
-    text-indent: -1.5em;
+.citation{
     padding-top: 0.1em;
     padding-bottom: 0.1em;
     /* Ensure citation links don't bust out of the container on narrow devices
