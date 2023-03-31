@@ -7,10 +7,10 @@
 
     /** Font sizes */
     --body-font-size: 1.7rem;
-    --title-font-size: 2.5rem;
+    --title-font-size: 2.2rem;
     --subtitle-font-size: 1rem;
-    --button-font-size: 2rem;
-    --title-body-font-size: 1.2rem;
+    --button-font-size: 1.5rem;
+    --title-body-font-size: 1.1rem;
     --header-font-size: 3rem;
     --sub-header-font-size: 3rem;
     --citation-font-size: 0.5rem;
@@ -68,10 +68,12 @@ h1, h2, h3 {
 
 #title h2 {
     font-size: var(--subtitle-font-size);
+    font-weight: normal;
 }
 
-#title p {
-    font-size: var(--title-body-font-size);
+#title em {
+    font-style: normal;
+    font-weight: bold;
 }
 
 #title #contact-button {

@@ -13,18 +13,20 @@ img {
 }
 
 #title-filter {
-    padding-top: 6rem;
-    padding-bottom: 1rem;
+    --padding-top: 8rem;
+    --padding-bottom: 2rem;
+    padding-top: var(--padding-top);
+    padding-bottom: var(--padding-bottom);
     text-align: center;
-    min-height: calc(100vh - 7rem);
+    min-height: calc(100vh - var(--padding-top) - var(--padding-bottom));
 }
 
 #title h1 {
-    margin-bottom: 0.2rem;
+    margin-bottom: 3rem;
 }
 
 #title h2 {
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
 }
 
 #title #contact-button {
@@ -35,6 +37,7 @@ img {
     padding-right: var(--padding-horizontal);
     padding-top: var(--padding-vertical);
     padding-bottom: var(--padding-vertical);
+    margin-top: 1.5rem;
 }
 
 #content h2 {
