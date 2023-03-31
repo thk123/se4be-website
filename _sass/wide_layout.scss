@@ -72,6 +72,15 @@ img {
     padding-bottom: 0.1em;
 }
 
+#content ol,ul
+{
+    line-height: 1.5rem;
+}
+
+#content li {
+    padding-left: 0.5rem;
+}
+
 .citation {
     /* Ensures that the second line of the citation is inline with the start */
     margin-left: 1.5em;

@@ -140,6 +140,12 @@ h1, h2, h3 {
     color: var(--summary-link-hover-colour);
 }
 
+#content ol {
+    list-style-type: lower-alpha;
+}
+
+
+
 .citation {
     font-size: var(--citation-font-size);
 }
