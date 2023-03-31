@@ -15,6 +15,10 @@
     --body-background-colour: var(--mint-cream);
     --link-font-colour: var(--oxford-blue);
 
+    /* Pull quotes */
+    --pull-quote-background-colour: var(--french-grey);
+    --pull-quote-font-colour: var(--rich-black);
+
     /* Page Header */
     --header-font-colour: var(--mint-cream);
     --header-link-hover-background-colour: var(--french-grey);
@@ -88,6 +92,8 @@ a:hover {
 #content strong {
     background-color: var(--seminar-header-background-colour);
     color: var(--seminar-header-font-colour);
+    background-color: var(--pull-quote-background-colour);
+    color: var(--pull-quote-font-colour);
 }
 
 #content em {
