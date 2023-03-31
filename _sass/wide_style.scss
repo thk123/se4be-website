@@ -13,6 +13,7 @@
     --title-body-font-size: 1.1rem;
     --header-font-size: 3rem;
     --sub-header-font-size: 3rem;
+    --pull-quote-font-size: 1.7rem;
     --citation-font-size: 0.5rem;
 
     /* Page Wide */
@@ -122,6 +123,8 @@ h1, h2, h3 {
 #content strong {
     background-color: var(--pull-quote-background-colour);
     color: var(--pull-quote-font-colour);
+    font-weight: normal;
+    font-size: var(--pull-quote-font-size);
 }
 
 #content em {

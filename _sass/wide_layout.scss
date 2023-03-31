@@ -56,7 +56,15 @@ img {
 
 #content strong {
     display: block;
-    padding: 1rem;
+    --horizontal-offset: var(--margin-size);
+    --vertial-padding: 1.5rem;
+    padding-left: var(--horizontal-offset);
+    padding-right: var(--horizontal-offset);
+    padding-top: var(--vertial-padding);
+    padding-bottom: var(--vertial-padding);
+    margin-left: calc(0px - var(--horizontal-offset));
+    margin-right: calc(0px - var(--horizontal-offset));
+    text-align: right;
 }
 
 #content summary {
