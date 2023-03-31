@@ -1,0 +1,55 @@
+:root {
+ --margin-size: 20vw;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+#title-filter, #content h2, #content h3, #content p, #content .image, #content ol, #content ul, #content summary {
+    padding-left: var(--margin-size);
+    padding-right: var(--margin-size);
+}
+
+#title-filter {
+    padding-top: 6rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    min-height: calc(100vh - 7rem);
+}
+
+#title a {
+    padding: 0.2rem;
+}
+
+#content h2 {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+#content h3 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#content ol, #content ul {
+    margin-left: 2rem;
+}
+
+#content strong {
+    display: block;
+    padding: 1rem;
+}
+
+.citation {
+    font-size: 0.5rem;
+    padding-left: 1.7em;
+    text-indent:-1.7em;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    /* Ensure citation links don't bust out of the container on narrow devices
+       https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}

@@ -1,0 +1,75 @@
+:root {
+    /* Colours */
+    --black: black;
+    --teal: #00695C;
+    --offwhite: #F7FFF7;
+    --oxford-blue: #101935;
+    --french-grey: #CBD1E1;
+
+    /* Page Wide */
+    --body-font: Mukta, sans-serif;
+    --link-font-colour: var(--oxford-blue);
+
+    /* Page Header */
+    --header-font-colour: var(--offwhite);
+    --header-link-hover-background-colour: var(--french-grey);
+
+    /* Sections */
+    --section-header-background-colour: var(--teal);
+    --section-header-font-colour: var(--offwhite);
+
+    /* Seminars */
+    --seminar-header-font-colour: var(--offwhite);
+    --seminar-header-background-colour: var(--teal);
+}
+
+html {
+    font-family: var(--body-font);
+    font-size: 1.7rem;
+}
+
+#title {
+    background-image: url("../images/oxford.jpeg");
+    background-size: cover;
+    color: var(--header-font-colour)
+}
+
+#title-filter {
+    backdrop-filter: brightness(0.7) blur(2px);
+}
+
+#title h1 {
+    font-size: 1.9rem;
+}
+
+#title a {
+    text-decoration: none;
+
+    border-color: var(--header-font-colour);
+    border-style: solid;
+    border-radius: 4px;
+
+    background-color: var(--link-font-colour);
+    color: var(--header-font-colour);
+}
+
+#title a:hover {
+    border-color: var(--link-font-colour);
+    color: var(--link-font-colour);
+    background-color: var(--header-link-hover-background-colour);
+}
+
+#content h2 {
+    background-color: var(--section-header-background-colour);
+    color: var(--section-header-font-colour);
+}
+
+#content h3 {
+    background-color: var(--seminar-header-background-colour);
+    color: var(--seminar-header-font-colour)
+}
+
+#content strong {
+    background-color: var(--seminar-header-background-colour);
+    color: var(--seminar-header-font-colour);
+}
