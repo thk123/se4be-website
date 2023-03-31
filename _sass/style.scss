@@ -1,0 +1,167 @@
+:root {
+    /* Colours */
+    --rich-black: #04080f;
+    --mint-cream: #F7FFF7;
+    --oxford-blue: #1c2d5e;
+    --french-grey: #CBD1E1;
+
+    /** Font sizes */
+    --body-font-size: 1.7rem;
+    --title-font-size: 2.3rem;
+    --subtitle-font-size: 1rem;
+    --button-font-size: 1.5rem;
+    --title-body-font-size: 1.1rem;
+    --header-font-size: 2.5rem;
+    --sub-header-font-size: 1.9rem;
+    --pull-quote-font-size: 1.7rem;
+    --citation-font-size: 0.5rem;
+
+    /* Page Wide */
+    --body-font: Mukta, sans-serif;
+    --header-font: Nanum Gothic, sans-serif;
+    --body-font-colour: var(--rich-black);
+    --body-background-colour: var(--mint-cream);
+    --link-font-colour: var(--oxford-blue);
+
+    /* Pull quotes */
+    --pull-quote-background-colour: var(--french-grey);
+    --pull-quote-font-colour: var(--rich-black);
+
+    /* Page Header */
+    --header-font-colour: var(--mint-cream);
+    --header-link-hover-background-colour: var(--french-grey);
+
+    /* Sections */
+    --section-header-background-colour: var(--oxford-blue);
+    --section-header-font-colour: var(--mint-cream);
+
+    /* Seminars */
+    --seminar-header-font-colour: var(--mint-cream);
+    --seminar-header-background-colour: var(--oxford-blue);
+    --summary-font-colour: var(--oxford-blue);
+    --summary-link-hover-colour: var(--mint-cream);
+
+    /* Citations section */
+    --citation-target-background-colour: var(--french-grey)
+}
+
+@media only screen and (orientation: portrait), (max-width:1000px) {
+    :root {
+        --body-font-size: 1.2rem;
+        --header-font-size: 2.0rem;
+        --sub-header-font-size: 1.5rem;
+        --pull-quote-font-size: 1.3rem;
+    }
+}
+
+html {
+    font-family: var(--body-font);
+    font-size: var(--body-font-size);
+    color: var(--body-font-colour);
+    background-color: var(--body-background-colour);
+}
+
+h1, h2, h3 {
+    font-family: var(--header-font);
+}
+
+#title {
+    background-image: url("../images/oxford.jpeg");
+    background-size: cover;
+    color: var(--header-font-colour)
+}
+
+#title-filter {
+    backdrop-filter: brightness(0.7) blur(2px);
+}
+
+#title h1 {
+    font-size: var(--title-font-size);
+}
+
+#title h2 {
+    font-size: var(--subtitle-font-size);
+    font-weight: normal;
+}
+
+#title em {
+    font-style: normal;
+    font-weight: bold;
+}
+
+#title #contact-button {
+    border-color: var(--header-font-colour);
+    border-style: solid;
+    border-radius: 4px;
+    background-color: var(--link-font-colour);
+    font-size: var(--button-font-size);
+}
+
+#title #contact-button:hover {
+    border-color: var(--link-font-colour);
+    background-color: var(--header-link-hover-background-colour);
+}
+
+#title a {
+    text-decoration: none;
+    color: var(--header-font-colour);
+}
+
+#title a:hover {
+    color: var(--link-font-colour);
+}
+
+#content a {
+    color: var(--link-font-colour);
+}
+
+#content a:hover {
+    color: var(--body-background-colour);
+    background-color: var(--link-font-colour);
+}
+
+#content h2 {
+    background-color: var(--section-header-background-colour);
+    color: var(--section-header-font-colour);
+    font-size: var(--header-font-size);
+}
+
+#content h3 {
+    background-color: var(--seminar-header-background-colour);
+    color: var(--seminar-header-font-colour);
+    font-size: var(--sub-header-font-size);
+}
+
+#content strong {
+    background-color: var(--pull-quote-background-colour);
+    color: var(--pull-quote-font-colour);
+    font-weight: normal;
+    font-size: var(--pull-quote-font-size);
+}
+
+#content em {
+    font-style: normal;
+    font-weight: bold;
+}
+#content summary {
+    color: var(--summary-font-colour);
+}
+
+#content summary:hover, #content details[open] summary {
+    background-color: var(--summary-font-colour);
+    color: var(--summary-link-hover-colour);
+}
+
+#content ol {
+    list-style-type: lower-alpha;
+}
+
+.citation {
+    font-size: var(--citation-font-size);
+}
+
+.citation:target {
+    background-color: var(--citation-target-background-colour);
+    transition: all 1s linear;
+    -webkit-transition: all 1s linear;
+}

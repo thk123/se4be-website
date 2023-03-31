@@ -1,5 +1,4 @@
 <div class="citation" id="{{include.cite_index}}">
     {% capture cite_text %}{% include citations/{{ include.cite_index }}.md %}{% endcapture %}
     {{ cite_text | markdownify }}
-    <p>{{}}</p>
 </div>

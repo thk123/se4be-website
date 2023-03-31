@@ -1,0 +1,112 @@
+:root {
+ --margin-size: 15vw;
+}
+
+@media only screen and (orientation: portrait), (max-width:1000px) {
+    :root {
+        --margin-size: 1rem;
+    }
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+#page {
+    padding-bottom: 3rem;
+}
+
+#title-filter, #content h2, #content h3, #content p, #content .image, #content ol, #content ul, #content summary {
+    padding-left: var(--margin-size);
+    padding-right: var(--margin-size);
+}
+
+#title-filter {
+    --padding-top: 8rem;
+    --padding-bottom: 2rem;
+    padding-top: var(--padding-top);
+    padding-bottom: var(--padding-bottom);
+    text-align: center;
+    min-height: calc(100vh - var(--padding-top) - var(--padding-bottom));
+}
+
+#title h1 {
+    margin-bottom: 3rem;
+}
+
+#title h2 {
+    margin-bottom: 1.5rem;
+}
+
+#title #contact-button {
+    display: inline-block;
+    --padding-horizontal: 0.5em;
+    --padding-vertical: 0.25em;
+    padding-left: var(--padding-horizontal);
+    padding-right: var(--padding-horizontal);
+    padding-top: var(--padding-vertical);
+    padding-bottom: var(--padding-vertical);
+    margin-top: 1.5rem;
+}
+
+#content h2 {
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    margin-bottom: 0px;
+}
+
+#content h3 {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    margin-bottom: 0px;
+}
+
+#content ol, #content ul {
+    margin-left: 2rem;
+}
+
+#content strong {
+    display: block;
+    --horizontal-offset: var(--margin-size);
+    --vertial-padding: 1.5rem;
+    padding-left: var(--horizontal-offset);
+    padding-right: var(--horizontal-offset);
+    padding-top: var(--vertial-padding);
+    padding-bottom: var(--vertial-padding);
+    margin-left: calc(0px - var(--horizontal-offset));
+    margin-right: calc(0px - var(--horizontal-offset));
+    text-align: right;
+}
+
+#content summary {
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+}
+
+#content ol,ul
+{
+    line-height: 1.5rem;
+}
+
+#content li {
+    padding-left: 0.5rem;
+}
+
+.citation{
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    /* Ensure citation links don't bust out of the container on narrow devices
+       https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+
+/* Mobile specific layouts */
+
+@media only screen and (orientation: portrait), (max-width:1000px) {
+    #title-filter {
+        padding-top: 1rem;
+    }
+}
