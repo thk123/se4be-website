@@ -2,13 +2,13 @@
 layout: default
 title: Software Engineering for Busy Experts
 ---
-Up-skill your scientists, engineers and other domain experts with proven practices from the software industry. Your colleagues may know how to write code, but are they doing it in the most effective way? This course teaches busy experts the most important software engineering best practices to help them write correct code more efficiently.
-
-**[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use software industry best practices to make optimal use of your expertise.**
 
 Writing code is now an _essential part of all science and technology_ research and development<sup>[1](#cite-1)</sup>. Yet many of the scientists and domain experts have _never received training on software engineering_ best practices, and are instead expected to figure it out. This results in slow and unreliable software development<sup>[2](#cite-2)</sup>.
 
-This course will teach your developers the _industry standard techniques_ to write more reliable code faster. These techniques are recommended for all scientific software developers<sup>[3](#cite-3)</sup> and support modern scientific best practices (such as the FAIR principles)<sup>[4](#cite-4)</sup>. I also provide on-going support to ensure the course provides the maximum benefit.
+**[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use software industry best practices to make optimal use of your expertise.**
+
+
+This course will teach your busy experts the _industry standard techniques_ to write more reliable code faster. These techniques are recommended for all scientific software developers<sup>[3](#cite-3)</sup> and support modern scientific best practices (such as the FAIR principles)<sup>[4](#cite-4)</sup>. I also provide on-going support to ensure the course provides the maximum benefit.
 
 Email me at [hi@tkiley.co.uk](mailto:hi@tkiley.co.uk) to discuss how this course can help your company or research team develop software effectively.
 
