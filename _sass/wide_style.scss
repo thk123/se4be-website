@@ -5,6 +5,10 @@
     --oxford-blue: #101935;
     --french-grey: #CBD1E1;
 
+    /** Font sizes */
+    --body-font-size: 1.7rem;
+    --title-font-size: 1.9rem;
+
     /* Page Wide */
     --body-font: Mukta, sans-serif;
     --body-font-colour: var(--rich-black);
@@ -26,7 +30,7 @@
 
 html {
     font-family: var(--body-font);
-    font-size: 1.7rem;
+    font-size: var(--body-font-size);
     color: var(--body-font-colour);
     background-color: var(--body-background-colour);
 }
@@ -51,7 +55,7 @@ a:hover {
 }
 
 #title h1 {
-    font-size: 1.9rem;
+    font-size: var(--title-font-size);
 }
 
 #title a {
