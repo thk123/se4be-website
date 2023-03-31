@@ -19,8 +19,22 @@ img {
     min-height: calc(100vh - 7rem);
 }
 
-#title a {
-    padding: 0.2rem;
+#title h1 {
+    margin-bottom: 0.2rem;
+}
+
+#title h2 {
+    margin-bottom: 1rem;
+}
+
+#title #contact-button {
+    display: inline-block;
+    --padding-horizontal: 0.5em;
+    --padding-vertical: 0.25em;
+    padding-left: var(--padding-horizontal);
+    padding-right: var(--padding-horizontal);
+    padding-top: var(--padding-vertical);
+    padding-bottom: var(--padding-vertical);
 }
 
 #content h2 {

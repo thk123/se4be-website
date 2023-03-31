@@ -48,15 +48,6 @@ html {
     background-color: var(--body-background-colour);
 }
 
-a {
-    color: var(--link-font-colour);
-}
-
-a:hover {
-    color: var(--body-background-colour);
-    background-color: var(--link-font-colour);
-}
-
 h1, h2, h3 {
     font-family: var(--header-font);
 }
@@ -83,23 +74,35 @@ h1, h2, h3 {
     font-size: var(--title-body-font-size);
 }
 
-#title a {
-    text-decoration: none;
-
+#title #contact-button {
     border-color: var(--header-font-colour);
     border-style: solid;
     border-radius: 4px;
-
     background-color: var(--link-font-colour);
-    color: var(--header-font-colour);
-
     font-size: var(--button-font-size);
 }
 
-#title a:hover {
+#title #contact-button:hover {
     border-color: var(--link-font-colour);
-    color: var(--link-font-colour);
     background-color: var(--header-link-hover-background-colour);
+}
+
+#title a {
+    text-decoration: none;
+    color: var(--header-font-colour);
+}
+
+#title a:hover {
+    color: var(--link-font-colour);
+}
+
+#content a {
+    color: var(--link-font-colour);
+}
+
+#content a:hover {
+    color: var(--body-background-colour);
+    background-color: var(--link-font-colour);
 }
 
 #content h2 {
