@@ -2,8 +2,6 @@
 layout: default
 title: Software Engineering for Busy Experts
 ---
-# Software Engineering Best Practices for Busy Experts
-
 Up-skill your scientists, engineers and other domain experts with proven practices from the software industry. Your colleagues may know how to write code, but are they doing it in the most effective way? This course teaches busy experts the most important software engineering best practices to help them write correct code more efficiently.
 
 **[Get in touch](mailto:hi@tkiley.co.uk) today to learn how to use software industry best practices to make optimal use of your expertise.**

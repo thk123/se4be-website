@@ -7,7 +7,7 @@
     --body-background-colour: #F7FFF7;
     --name-background-colour: #A3B1A8;
     --header-background-colour: #00695C;
-    --pull-quote-background-colour: #49273e;
+    --pull-quote-background-colour: #54ceec;
     --summary-background-colour: var(--body-background-colour);
     --link-colour: #00695C;
     --alternate-link-colour: #00695C;
@@ -17,8 +17,8 @@
     --header-colour: #F7FFF7;
     --pull-quote-colour: #F7FFF7;
     --summary-colour: var(--link-colour);
-    --header-font-weight: thicker;
-    --name-font-weight: thicker;
+    --header-font-weight: bold;
+    --name-font-weight: bold;
     --pull-quote-font-weight: normal;
     --em-font-weight: bolder;
 }
@@ -69,8 +69,35 @@ a:hover {
 
 
 
-h1 {
-    font-size: 2.2em;
+#title {
+    background-image: url("../images/oxford.jpeg");
+    background-size: cover;
+    color:var(--header-colour);
+    text-align: right
+}
+
+#title-filter
+{
+    width: 100%;
+    height: 100%;
+    padding-top:8rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    backdrop-filter: brightness(0.7);
+
+}
+
+#title h1 {
+    font-size: 2.2rem;
+    font-weight: var(--header-font-weight);
+    color: var(--header-colour);
+    margin:0;
+}
+
+#title h2 {
+    font-size: 1.1rem;
+    padding-bottom: 1em;
 }
 
 h2 {
@@ -78,10 +105,10 @@ h2 {
     font-size: 1.9em;
 }
 
-#header {
-    position: sticky;
+/*#header {
     top:0px;
-    padding-top: calc(15vh - 2rem);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     padding-left: 20vw;
     padding-right: 20vw;
     width: 59vw;
@@ -90,9 +117,7 @@ h2 {
     display: flex;
     flex-direction:row;
     color: var(--name-colour);
-    flex-wrap: wrap-reverse;
-    height: 15vh;
-    min-height: 3rem;
+    flex-wrap: wrap;
     z-index: 1;
 }
 
@@ -110,7 +135,7 @@ h2 {
 {
     color: var(--body-background-colour);
     background-color: var(--alternate-link-colour);
-}
+}*/
 
 #name
 {
@@ -126,6 +151,8 @@ h2 {
 {
     font-family: var(--name-font);
     font-weight: var(--name-font-weight);
+    font-size: 1.2rem;
+    vertical-align: middle;
 }
 
 #contact-details
@@ -133,7 +160,9 @@ h2 {
     flex: 1;
     margin:0;
     text-align: right;
+    // line-height: 46px;
     background-color: var(--name-background-colour);
+    font-size: 1.2em;
 }
 
 #contact-details ul
@@ -159,15 +188,6 @@ p, h1 {
 
     }
 
-h1 {
-    background-color: var(--header-background-colour);
-    color: var(--header-colour);
-    padding-top:3em;
-    padding-bottom: 1em;
-    margin:0;
-    text-align: left;
-}
-
 #content h2
 {
     background-color: var(--header-background-colour);
@@ -186,7 +206,7 @@ h1 {
 
 #content strong
 {
-    font-size: 1.5em;
+    font-size: 1.1em;
     text-align: right;
     float:right;
     background-color: var(--pull-quote-background-colour);
@@ -196,8 +216,11 @@ h1 {
     color:white;
     margin-bottom: 1em;
     margin-top: 0.5em;
-    padding: calc(0.3em + 1cm);
-    padding-right: calc(0.5em + 1cm);
+    padding-left: calc(1cm);
+    padding-right: calc(1cm);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
     margin-left:-1cm;
     margin-right: -1cm;
 }
@@ -301,7 +324,7 @@ sup {
 }
 
 @media only screen and (orientation: landscape), (min-width:1000px) {
-    h1, h3, summary, #content h2{
+    h1, h3, summary, #content h2, #title {
     width: 59vw;
     padding-left: 20vw;
     padding-right:20vw;
