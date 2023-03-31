@@ -40,6 +40,9 @@
     --seminar-header-background-colour: var(--oxford-blue);
     --summary-font-colour: var(--oxford-blue);
     --summary-link-hover-colour: var(--mint-cream);
+
+    /* Citations section */
+    --citation-target-background-colour: var(--french-grey)
 }
 
 @media only screen and (orientation: portrait), (max-width:1000px) {
@@ -157,3 +160,8 @@ h1, h2, h3 {
     font-size: var(--citation-font-size);
 }
 
+.citation:target {
+    background-color: var(--citation-target-background-colour);
+    transition: all 1s linear;
+    -webkit-transition: all 1s linear;
+}
