@@ -8,6 +8,7 @@
     /** Font sizes */
     --body-font-size: 1.7rem;
     --title-font-size: 1.9rem;
+    --citation-font-size: 0.5rem;
 
     /* Page Wide */
     --body-font: Mukta, sans-serif;
@@ -107,4 +108,8 @@ a:hover {
 #content summary:hover {
     background-color: var(--summary-font-colour);
     color: var(--summary-link-hover-colour);
+}
+
+.citation {
+    font-size: var(--citation-font-size);
 }
