@@ -2,6 +2,12 @@
  --margin-size: 15vw;
 }
 
+@media only screen and (orientation: portrait), (max-width:1000px) {
+    :root {
+        --margin-size: 1rem;
+    }
+}
+
 img {
     width: 100%;
     object-fit: cover;
@@ -95,4 +101,13 @@ img {
        https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
     overflow-wrap: break-word;
     word-wrap: break-word;
+}
+
+
+/* Mobile specific layouts */
+
+@media only screen and (orientation: portrait), (max-width:1000px) {
+    #title-filter {
+        padding-top: 1rem;
+    }
 }

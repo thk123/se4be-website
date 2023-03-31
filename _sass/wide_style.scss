@@ -42,6 +42,15 @@
     --summary-link-hover-colour: var(--mint-cream);
 }
 
+@media only screen and (orientation: portrait), (max-width:1000px) {
+    :root {
+        --body-font-size: 1.2rem;
+        --header-font-size: 2.0rem;
+        --sub-header-font-size: 1.5rem;
+        --pull-quote-font-size: 1.3rem;
+    }
+}
+
 html {
     font-family: var(--body-font);
     font-size: var(--body-font-size);
@@ -149,3 +158,4 @@ h1, h2, h3 {
 .citation {
     font-size: var(--citation-font-size);
 }
+
