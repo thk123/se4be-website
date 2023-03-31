@@ -1,30 +1,29 @@
 :root {
-    --orange-colour: #fb8c00;
-    --grey-colour: #A3B1A8;
-    --purple-colour: #49273e;
-    --teal-colour: #00695C;
+    --french-grey: #CBD1E1;
+    --mint-cream: #f7fff7;
+    --oxford-blue: #101935;
+    --rich-black: #04080f;
 
     --body-font: Mukta, sans-serif;
     --name-font: var(--header-font);
     --header-font: Nanum Gothic, sans-serif;
     --pull-quote-font: var(--body-font);
-    --background-colour: #F7FFF7;
-    --body-background-colour: #F7FFF7;
-    --name-background-colour: var(--grey-colour);
-    --header-background-colour: var(--teal-colour);
-    --pull-quote-background-colour: var(--grey-colour);
+    --background-colour: var(--mint-cream);
+    --body-background-colour: var(--mint-cream);
+    --header-background-colour: var(--oxford-blue);
+    --pull-quote-background-colour: var(--french-grey);
     --summary-background-colour: var(--body-background-colour);
-    --link-colour: var(--teal-colour);
-    --alternate-link-colour: var(--teal-colour);
-    --pull-quote-link-colour: var(--teal-colour);
-    --body-colour: black;
-    --name-colour: #F7FFF7;
-    --header-colour: #F7FFF7;
-    --pull-quote-colour: #F7FFF7;
+    --link-colour: var(--oxford-blue);
+    --alternate-link-colour: var(--oxford-blue);
+    --pull-quote-link-colour: var(--oxford-blue);
+    --body-colour: var(--rich-black);
+    --name-colour: var(--mint-cream);
+    --header-colour: var(--mint-cream);
+    --pull-quote-colour: var(--rich-black);
     --summary-colour: var(--link-colour);
     --header-font-weight: bold;
     --name-font-weight: bold;
-    --pull-quote-font-weight: normal;
+    --pull-quote-font-weight: thin;
     --em-font-weight: bolder;
 }
 
@@ -49,14 +48,6 @@ em {
 
 }
 
-/*All anchor targets need the height of the sticky #header
-This number will need to be adjusted if the height of #header is
-changed.
-*/
-h1, h2, h3, .citation {
-    scroll-margin-top: calc(max(3rem, 30vh - 2rem));
-}
-
 a {
     color: var(--link-colour);
 }
@@ -78,19 +69,19 @@ a:hover {
     background-image: url("../images/oxford.jpeg");
     background-size: cover;
     color:var(--header-colour);
-    text-align: right
+    text-align: center;
+    min-height: 100vh;
 }
 
 #title-filter
 {
     width: 100%;
     height: 100%;
-    padding-top:8rem;
+    padding-top: 8rem;
     padding-bottom: 2rem;
     padding-left: 1rem;
     padding-right: 1rem;
-    backdrop-filter: brightness(0.7);
-
+    backdrop-filter: brightness(0.7) blur(2px);
 }
 
 #title h1 {
@@ -102,45 +93,28 @@ a:hover {
 
 #title h2 {
     font-size: 1.1rem;
-    padding-bottom: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 14em;
+    margin-right: 14em;
+    padding: 5px;
+    
+    border-color: var(--header-colour);
+    border-style: solid;
+    border-radius: 4px;
+
+    background-color: var(--link-colour);
+}
+
+#title h5 {
+    color: var(--header-colour);
+    font-weight: normal;
 }
 
 h2 {
     margin:0;
     font-size: 1.9em;
 }
-
-/*#header {
-    bottom:0px;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    padding-left: 20vw;
-    padding-right: 20vw;
-    width: 59vw;
-
-    background-color: var(--name-background-colour);
-    display: flex;
-    flex-direction:row;
-    color: var(--name-colour);
-    flex-wrap: wrap;
-    z-index: 1;
-}
-
-#header ul
-{
-    padding-left: 0px;
-}
-
-#header a
-{
-    color: var(--alternate-link-colour);
-}
-
-#header a:hover
-{
-    color: var(--body-background-colour);
-    background-color: var(--alternate-link-colour);
-}*/
 
 #name
 {
@@ -208,10 +182,11 @@ p, h1 {
     text-align: right;
     float:right;
     background-color: var(--pull-quote-background-colour);
+    border-style: solid;
+    border-color: var(--pull-quote-background-colour);
     font-family: var(--pull-quote-font);
     font-weight: var(--pull-quote-font-weight);
     color: var(--pull-quote-colour);
-    color:white;
     margin-bottom: 1em;
     margin-top: 0.5em;
     padding-left: calc(1cm);
