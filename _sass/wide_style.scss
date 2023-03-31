@@ -31,6 +31,13 @@ html {
     background-color: var(--body-background-colour);
 }
 
+a {
+    color: var(--link-font-colour);
+}
+
+a:hover {
+    color: var(--body-background-colour);
+    background-color: var(--link-colour);
 }
 
 #title {
