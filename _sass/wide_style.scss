@@ -89,3 +89,8 @@ a:hover {
     background-color: var(--seminar-header-background-colour);
     color: var(--seminar-header-font-colour);
 }
+
+#content em {
+    font-style: normal;
+    font-weight: bold;
+}
