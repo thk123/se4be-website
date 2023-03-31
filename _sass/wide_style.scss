@@ -7,7 +7,12 @@
 
     /** Font sizes */
     --body-font-size: 1.7rem;
-    --title-font-size: 1.9rem;
+    --title-font-size: 2.5rem;
+    --subtitle-font-size: 1rem;
+    --button-font-size: 2rem;
+    --title-body-font-size: 1.2rem;
+    --header-font-size: 3rem;
+    --sub-header-font-size: 3rem;
     --citation-font-size: 0.5rem;
 
     /* Page Wide */
@@ -70,6 +75,14 @@ h1, h2, h3 {
     font-size: var(--title-font-size);
 }
 
+#title h2 {
+    font-size: var(--subtitle-font-size);
+}
+
+#title p {
+    font-size: var(--title-body-font-size);
+}
+
 #title a {
     text-decoration: none;
 
@@ -79,6 +92,8 @@ h1, h2, h3 {
 
     background-color: var(--link-font-colour);
     color: var(--header-font-colour);
+
+    font-size: var(--button-font-size);
 }
 
 #title a:hover {
@@ -90,11 +105,13 @@ h1, h2, h3 {
 #content h2 {
     background-color: var(--section-header-background-colour);
     color: var(--section-header-font-colour);
+    font-size: var(--header-font-size);
 }
 
 #content h3 {
     background-color: var(--seminar-header-background-colour);
     color: var(--seminar-header-font-colour);
+    font-size: var(--sub-header-font-size);
 }
 
 #content strong {
