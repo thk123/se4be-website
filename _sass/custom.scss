@@ -91,19 +91,27 @@ a:hover {
     margin:0;
 }
 
-#title h2 {
+#title a {
     font-size: 1.1rem;
     margin-top: 1em;
     margin-bottom: 1em;
-    margin-left: 14em;
-    margin-right: 14em;
+    margin-left: 10em;
+    margin-right: 10em;
     padding: 5px;
+    text-decoration: none;
     
     border-color: var(--header-colour);
     border-style: solid;
     border-radius: 4px;
 
     background-color: var(--link-colour);
+    color: var(--header-colour);
+}
+
+#title a:hover {
+    border-color: var(--link-colour);
+    color: var(--link-colour);
+    background-color: var(--french-grey);
 }
 
 #title h5 {
